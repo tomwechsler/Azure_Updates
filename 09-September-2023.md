@@ -1,3 +1,6 @@
+**General availability: Domain fronting update on Azure Front Door and Azure CDN**  
+https://azure.microsoft.com/en-us/updates/general-availability-domain-fronting-update-on-azure-front-door-and-azure-cdn/
+
 **Azure Monitor for AKS-Engine will not be supported on 14 September 2026**  
 https://azure.microsoft.com/en-us/updates/azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026/
 
