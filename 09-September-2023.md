@@ -1,3 +1,10 @@
+**Ungated Public Preview: Azure API Center**  
+https://azure.microsoft.com/en-us/updates/ungated-public-preview-azure-api-center/
+
+**General availability: Gateway Load Balancer IPv6 Support**  
+https://azure.microsoft.com/en-us/updates/general-availability-gateway-load-balancer-ipv6-support/
+
+
 **General availability: Domain fronting update on Azure Front Door and Azure CDN**  
 https://azure.microsoft.com/en-us/updates/general-availability-domain-fronting-update-on-azure-front-door-and-azure-cdn/
 
