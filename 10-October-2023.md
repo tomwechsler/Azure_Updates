@@ -22,7 +22,7 @@ https://azure.microsoft.com/en-us/updates/support-for-tls-1011-on-azure-cache-fo
 https://azure.microsoft.com/en-us/updates/aml-explanation-fairness-retirement/
 
 
-**Migrate to Azure Monitor agent???based VM insights by 31 August 2024**  
+**Migrate to Azure Monitor agent - based VM insights by 31 August 2024**  
 https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/
 
 
