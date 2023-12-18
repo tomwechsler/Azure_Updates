@@ -1,5 +1,3 @@
-
-
 **Container insights recommended alerts (custom metrics) (preview) retirement moving up to 31 May 2024**  
 https://azure.microsoft.com/en-us/updates/container-insights-recommended-alerts-custom-metrics-preview-retirement-moving-up-to-31-may-2024/
 
