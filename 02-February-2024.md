@@ -1,3 +1,19 @@
+**Generally available: Support for Azure VMs using Ultra disks in Azure Backup**  
+https://azure.microsoft.com/en-us/updates/ultra-disk-backup-support-ga/
+
+
+**Generally available: Support for Azure VMs using Premium SSD v2 in Azure Backup**  
+https://azure.microsoft.com/en-us/updates/premium-ssd-v2-backup-support-ga/
+
+
+**Execute Azure Monitor Logs connector on exact time range provided dynamically (preview)**  
+https://azure.microsoft.com/en-us/updates/execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically/
+
+
+**General Availability: Trusted launch for Azure VMs in China regions**  
+https://azure.microsoft.com/en-us/updates/general-availability-trusted-launch-for-azure-vms-in-china-regions/
+
+
 **Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication**  
 https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication/
 
@@ -18,6 +34,22 @@ https://azure.microsoft.com/en-us/updates/public-preview-migration-service-in-az
 https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-migration-assessment-enabled-by-azure-arc/
 
 
+**Azure Firewall: Flow Trace Logs and Autoscaling based on number of connections are now generally available**  
+https://azure.microsoft.com/en-us/updates/azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available/
+
+
+**Azure Firewall: Parallel IP Group update support is now in public preview**  
+https://azure.microsoft.com/en-us/updates/azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview/
+
+
+**Sending a log search alert to unauthorized target resources will no longer be supported**  
+https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported/
+
+
+**Azure Elastic SAN is now generally available**  
+https://azure.microsoft.com/en-us/updates/azure-elastic-san-is-now-generally-available/
+
+
 **Public preview: AKS cluster control plane metrics in managed Prometheus**  
 https://azure.microsoft.com/en-us/updates/public-preview-aks-cluster-control-plane-metrics-in-managed-prometheus/
 
@@ -28,10 +60,6 @@ https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-sto
 
 **General availability: Improvements in Azure Key Vault**  
 https://azure.microsoft.com/en-us/updates/general-availability-improvements-in-azure-key-vault/
-
-
-**General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks**  
-https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/
 
 
 **Public Preview: Azure NetApp Files Standard Network Features - Edit Volumes in US Gov Regions**  
