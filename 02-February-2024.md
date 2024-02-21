@@ -1,17 +1,13 @@
-**Generally available: Support for Azure VMs using Ultra disks in Azure Backup**  
-https://azure.microsoft.com/en-us/updates/ultra-disk-backup-support-ga/
+**Update records in a Kusto Database (public preview)**  
+https://azure.microsoft.com/en-us/updates/update-kusto-db/
 
 
-**Generally available: Support for Azure VMs using Premium SSD v2 in Azure Backup**  
-https://azure.microsoft.com/en-us/updates/premium-ssd-v2-backup-support-ga/
+**Public Preview: Regional Disaster Recovery by Azure Backup for AKS**  
+https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/
 
 
-**Execute Azure Monitor Logs connector on exact time range provided dynamically (preview)**  
-https://azure.microsoft.com/en-us/updates/execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically/
-
-
-**General Availability: Trusted launch for Azure VMs in China regions**  
-https://azure.microsoft.com/en-us/updates/general-availability-trusted-launch-for-azure-vms-in-china-regions/
+**Public preview: Configuration-as-code customizations in Microsoft Dev Box**  
+https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/
 
 
 **Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication**  
@@ -60,6 +56,10 @@ https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-sto
 
 **General availability: Improvements in Azure Key Vault**  
 https://azure.microsoft.com/en-us/updates/general-availability-improvements-in-azure-key-vault/
+
+
+**General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks**  
+https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/
 
 
 **Public Preview: Azure NetApp Files Standard Network Features - Edit Volumes in US Gov Regions**  
