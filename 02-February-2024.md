@@ -1,5 +1,25 @@
+**GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity**  
+https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/
+
+
+**Public preview: Azure Application Gateway introduces support for TLS and TCP protocols**  
+https://azure.microsoft.com/en-us/updates/tls-tcp-proxy-preview/
+
+
+**Announcing NBCROW Compression in Kusto's TDS Implementation**  
+https://azure.microsoft.com/en-us/updates/kusto-tds-nbcrow/
+
+
 **Sending a log search alert with cross tenant target resource will no longer be supported**  
 https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported/
+
+
+**Update records in a Kusto Database (public preview)**  
+https://azure.microsoft.com/en-us/updates/update-kusto-db/
+
+
+**Public Preview: Regional Disaster Recovery by Azure Backup for AKS**  
+https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/
 
 
 **General Availability: Azure NetApp Files Standard Network Features - Edit Volumes**  
@@ -10,7 +30,7 @@ https://azure.microsoft.com/en-us/updates/general-availability-edit-network-feat
 https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/
 
 
-**Public Preview: Azure Storage Actions - Serverless storage data management**  
+**Public Preview: Azure Storage Actions ??? Serverless storage data management**  
 https://azure.microsoft.com/en-us/updates/azure-storage-actions-preview/
 
 
