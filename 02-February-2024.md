@@ -1,3 +1,11 @@
+**General availability: Application Gateway for Containers**  
+https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/
+
+
+**Enable replication for added VMware VM data disks**  
+https://azure.microsoft.com/en-us/updates/replicate-added-vmware-disks/
+
+
 **GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity**  
 https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/
 
@@ -30,7 +38,7 @@ https://azure.microsoft.com/en-us/updates/general-availability-edit-network-feat
 https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/
 
 
-**Public Preview: Azure Storage Actions ??? Serverless storage data management**  
+**Public Preview: Azure Storage Actions - Serverless storage data management**  
 https://azure.microsoft.com/en-us/updates/azure-storage-actions-preview/
 
 
