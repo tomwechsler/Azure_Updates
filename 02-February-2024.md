@@ -1,13 +1,61 @@
+**Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs**  
+https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/
+
+
+**Public preview: Azure Functions Support for HTTP Streams in Node.js**  
+https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/
+
+
+**Public preview: Kubernetes 1.29 support in AKS**  
+https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/
+
+
+**Public preview: OS SKU in-place migration for Linux nodes**  
+https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/
+
+
+**Generally Available: Node Soak Duration for Upgrades**  
+https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/
+
+
+**Generally Available: Capacity Reservations support in AKS**  
+https://azure.microsoft.com/en-us/updates/generally-available-capacity-reservations-support-in-aks/
+
+
+**GA: Istio-based service mesh add-on for Azure Kubernetes Service**  
+https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/
+
+
+**Public preview: Disable network policy in AKS for migration**  
+https://azure.microsoft.com/en-us/updates/public-preview-disable-network-policy-for-migration-in-aks/
+
+
+**Public preview: AKS support for node soak duration for upgrades**  
+https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-node-soak-duration-for-upgrades/
+
+
+**Public Preview: Azure SQL updates for late-February 2024**  
+https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/
+
+
+**General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/
+
+
+**General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/
+
+
+**General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/
+
+
 **General availability: Application Gateway for Containers**  
 https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/
 
 
 **Enable replication for added VMware VM data disks**  
 https://azure.microsoft.com/en-us/updates/replicate-added-vmware-disks/
-
-
-**GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity**  
-https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/
 
 
 **Public preview: Azure Application Gateway introduces support for TLS and TCP protocols**  
@@ -126,12 +174,12 @@ https://azure.microsoft.com/en-us/updates/adx-vnet-migration-ga/
 https://azure.microsoft.com/en-us/updates/support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired/
 
 
-**Azure Virtual Network Manager topology view now generally available**  
-https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-topology-view-now-generally-available/
-
-
 **Azure Virtual Network Manager security admin rule generally available in 30 regions**  
 https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions/
+
+
+**Azure Virtual Network Manager topology view now generally available**  
+https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-topology-view-now-generally-available/
 
 
 **Private Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Windows OS)**  
