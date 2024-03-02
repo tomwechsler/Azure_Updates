@@ -1,3 +1,6 @@
+**General Availability: Encryption at host for Premium SSD v2 and Ultra Disks is now available in more regions**  
+https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-for-premium-ssd-v2-and-ultra-disks-is-now-available-in-more-regions/
+
 **Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs**  
 https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/
 
