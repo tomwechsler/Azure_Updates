@@ -1,3 +1,36 @@
+**Generally Available: Java on Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/v2/Java-on-Azure-Container-Apps
+
+**Public Preview: Low-Code RAG ingestion with built-in document parsing and chunking in Logic Apps Standard**  
+https://azure.microsoft.com/en-us/updates/v2/Low-Code-RAG-ingestion-with-built-in-document-parsing-and-chunking-in-Logic-Apps-Standard
+
+**Private Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Linux OS)**  
+https://azure.microsoft.com/en-us/updates/v2/private-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-linux-os
+
+**Public Preview: DNAT on Azure Firewall Private IP address**  
+https://azure.microsoft.com/en-us/updates/v2/Public-preview-DNAT-on-Azure-Firewall-Private-IP-Address
+
+**Retirement: Azure AI Document Intelligence GA API v2.1 is retiring on 15 September 2027**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Docuement-Intelligence-V2-retirement
+
+**Public Preview: Azure Web PubSub – MQTT support now available**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Web-PubSub-MQTT-support-now-available-in-public-preview
+
+**Public Preview: Live Resize for Azure Premium SSD v2 and Ultra Disks**  
+https://azure.microsoft.com/en-us/updates/v2/Live-Resize-for-Azure-Premium-SSD-v2-and-Ultra-Disks
+
+**Generally Available: Azure Application Gateway v2 Basic SKU**  
+https://azure.microsoft.com/en-us/updates/v2/GA-Azure-Application-Gateway-v2-Basic-SKU
+
+**Generally Available: Azure Functions support for PowerShell 7.4**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Functions-Support-for-PowerShell-7-4
+
+**Generally Available: Azure SQL Database Hyperscale elastic pools**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-SQL-Database-Hyperscale-elastic-pools
+
+**Generally Available: Azure IoT Edge now supports new version releases of Ubuntu Server, Debian, and Yocto**  
+https://azure.microsoft.com/en-us/updates/v2/IoT-Edge-support-for-Ubuntu-Server-24-04-Debian-12-and-Yocto-Scarthgap
+
 **Retirement: Azure App Service Environment v1/v2 is retired as of August 31, 2024**  
 https://azure.microsoft.com/en-us/updates/v2/App-Service-Environment-v1v2-Retirement-Update-1
 
