@@ -1,3 +1,60 @@
+**Retirement: Microsoft Purview Data Sharing (in Public Preview) is retiring on September 26th, 2025**  
+https://azure.microsoft.com/en-us/updates/v2/Microsoft-Purview-Data-Sharing-in-Public-Preview-is-retiring
+
+**Generally Available: Access-based enumeration and non-browsable shares for SMB and dual-protocol Azure NetApp Files volumes**  
+https://azure.microsoft.com/en-us/updates/v2/ANF-ABE-NBS
+
+**Generally Available: Azure NetApp Files Reserved Capacity**  
+https://azure.microsoft.com/en-us/updates/v2/ANF-Reserved-Capacity
+
+**Retirement: Azure Maps Creator Service APIs V2 & 2023-03-01-preview will be retired on September 30, 2025**  
+https://azure.microsoft.com/en-us/updates/v2/azure-maps-creator-services-retirement-on-30-september-2025
+
+**Generally Available: Force detach zone redundant data disks during zone outage**  
+https://azure.microsoft.com/en-us/updates/v2/Force-detach-zone-redundant-data-disks-during-zone-outage
+
+**Public Preview: Advanced Container Networking Services: Enhancing security and observability in AKS**  
+https://azure.microsoft.com/en-us/updates/v2/fqdn-filtering
+
+**Retirement: Azure Remote Rendering will be retired on September 30th, 2025**  
+https://azure.microsoft.com/en-us/updates/v2/azure-remote-rendering-retirement
+
+**Retirement: SQL Insights (preview)**  
+https://azure.microsoft.com/en-us/updates/v2/sql-insights-retirement
+
+**Public Preview: Announcing Azure Monitor Metrics Export in public preview**  
+https://azure.microsoft.com/en-us/updates/v2/Announcing-public-preview-of-azure-monitor-metrics-export
+
+**Generally Available: Automated Patching retirement and replacement with Azure Update Manager**  
+https://azure.microsoft.com/en-us/updates/v2/Automated-Patching-deprecation-and-replacement-with-Azure-Update-Manager
+
+**Retirement: Support for PowerShell 7.2 on Azure Functions is ending on November 8, 2024**  
+https://azure.microsoft.com/en-us/updates/v2/powershell72-azure-functions-retirement
+
+**Generally Available: Azure Data Box 80 TB is now Generally available at Azure China**  
+https://azure.microsoft.com/en-us/updates/v2/general-availability-of-azuredatabox80tb-at-azurechina
+
+**Retirement: Azure SQL Edge will be retired on September 30th, 2025**  
+https://azure.microsoft.com/en-us/updates/v2/azure-sql-edge-retirement
+
+**Retirement: Microsoft Genomics Service**  
+https://azure.microsoft.com/en-us/updates/v2/Microsoft-Genomics-Service-Retirement
+
+**Retirement: Azure Maps Data Registry APIs V 2023-06-01 will be retired on September 30th, 2025**  
+https://azure.microsoft.com/en-us/updates/v2/azure-maps-data-registry-apis-retirement-on-30-september-2025
+
+**Generally Available: Azure Site Recovery update rollup 75 – August 2024**  
+https://azure.microsoft.com/en-us/updates/v2/azure-site-recovery-rollup-update-75s
+
+**Retirement: Azure AI Vision APIs to be retired**  
+https://azure.microsoft.com/en-us/updates/v2/azure-vision-api-retirements
+
+**Retirement: Azure Managed Confidential Consortium Framework (CCF) Service Support Ending on November 22nd, 2024**  
+https://azure.microsoft.com/en-us/updates/v2/managed-confidential-consortium-framework-retirement
+
+**Retirement: Azure PostgreSQL migration extension in Azure Data Studio (ADS)**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-PostgreSQL-migration-extension-in-Azure-Data-Studio-1
+
 **Generally Available: Java on Azure Container Apps**  
 https://azure.microsoft.com/en-us/updates/v2/Java-on-Azure-Container-Apps
 
