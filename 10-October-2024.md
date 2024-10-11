@@ -1,3 +1,66 @@
+**Retirement: Older versions of EA Azure Price Sheet – Download by Billing Account API**  
+https://azure.microsoft.com/en-us/updates/v2/Cost-Management-Download-by-Billing-Account-API-version-retirement
+
+**Generally Available: App Service Environment memory intensive pricing tier**  
+https://azure.microsoft.com/en-us/updates/v2/Announcing-App-Service-Environment-Memory-Intensive-Pricing-Tier
+
+**Generally Available: Storage account default egress limit increase to 200 Gbps**  
+https://azure.microsoft.com/en-us/updates/v2/Storage-account-default-egress-limit-increase-to-200-Gbps
+
+**Retirement: Announcing upcoming retirement of custom text analytics for health (preview) in Azure AI Language**  
+https://azure.microsoft.com/en-us/updates/v2/custom-text-analytics-for-health-retirement
+
+**Retirement: Announcing upcoming retirement of custom sentiment analysis (preview) in Azure AI Language**  
+https://azure.microsoft.com/en-us/updates/v2/custom-sentiment-analysis-retirement
+
+**Generally Available: Several performance management server parameters now modifiable on Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/v2/performance-management-server-parameters-now-modifiable-on-Azure-Database-for-PostgreSQL
+
+**Public Preview: vCore-based Azure Cosmos DB for MongoDB—up to 32 TiB storage**  
+https://azure.microsoft.com/en-us/updates/v2/vCore-based-Azure-Cosmos-DB-for-MongoDB-up-to-32-TiB-storage
+
+**Public Preview: vCore-based Azure Cosmos DB for MongoDB multishard, cross-region replication**  
+https://azure.microsoft.com/en-us/updates/v2/mdb-vcore-repl
+
+**Public Preview: vCore-based Azure Cosmos DB for MongoDB multishard clusters**  
+https://azure.microsoft.com/en-us/updates/v2/mdb-vcore-sharding
+
+**Public Preview: Azure Database for PostgreSQL – Flexible Server—support for postgresql_anonymizer extension version 1.3.2**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Database-for-PostgreSQL-support-for-postgresql-anonymizer
+
+**Public Preview: DiskANN indexing on Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/v2/DiskANN-indexing-on-Azure-Database-for-PostgreSQL
+
+**Generally Available: Redis 7.2 on Azure Cache for Redis Enterprise**  
+https://azure.microsoft.com/en-us/updates/v2/Redis-7-2-on-Azure-Cache-for-Redis-Enterprise
+
+**Generally Available: Dedicated gateway RBAC support and a new request option**  
+https://azure.microsoft.com/en-us/updates/v2/Dedicated-gateway-RBAC-support-and-a-new-request-option
+
+**Generally Available: Azure Database for MySQL – Flexible Server flexible maintenance**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Database-for-MySQL-Flexible-Server-flexible-maintenance
+
+**Generally Available: Azure Cosmos DB Data Explorer custom column selector and filter history**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Cosmos-DB-Data-Explorer-custom-column-selector
+
+**Generally Available: Azure SQL updates for early-October 2024**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-SQL-updates-for-early-October-2024
+
+**Generally Available: ExpressRoute guided configuration experience**  
+https://azure.microsoft.com/en-us/updates/v2/ExpressRoute-guided-configuration-experience
+
+**Generally Available: Private endpoint support without NVA source network address translation**  
+https://azure.microsoft.com/en-us/updates/v2/generally-available-Private-endpoint-support-without-NVA-source-network-address-translation
+
+**Retirement: End of Support Announcement for Azure Load Balancer numberOfProbes property on September 1, 2027**  
+https://azure.microsoft.com/en-us/updates/v2/End-of-Support-Announcement-for-Azure-Load-Balancer-numberOfProbes-property-on-1-September-2027
+
+**Generally Available: Custom IPv4 Prefixes (BYOIP) can be used in a Global/Regional configuration**  
+https://azure.microsoft.com/en-us/updates/v2/Custom-IPv4-Prefixes-BYOIP-can-be-used-in-a-Global-Regional-configuration
+
+**Generally Available: Azure Application Gateway v2 Basic SKU**  
+https://azure.microsoft.com/en-us/updates/v2/GA-Azure-Application-Gateway-v2-Basic-SKU
+
 **Public Preview: Simulate everyday interactions with your app in Azure AI Studio**  
 https://azure.microsoft.com/en-us/updates/v2/Simulate-everyday-interactions-with-your-GenAI-App-Public-Preview
 
