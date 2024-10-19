@@ -1,3 +1,24 @@
+**Generally Available: ED25519 SSH key support for Linux VMs**  
+https://azure.microsoft.com/en-us/updates/v2/linux-sssh-ed25519
+
+**Generally Available: Azure Cobalt 100 Arm-based Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Cobalt-100-Arm-based-Virtual-Machines
+
+**Public Preview: VM watch for Azure VMs**  
+https://azure.microsoft.com/en-us/updates/v2/VM-watch-on-Azure-VMs
+
+**Generally Available: Reduced Pricing for JBoss EAP on App Service**  
+https://azure.microsoft.com/en-us/updates/v2/Reduced-Pricing-for-JBoss-EAP-on-App-Service
+
+**Generally Available: ExpressRoute Metro**  
+https://azure.microsoft.com/en-us/updates/v2/Ermetro-ga-announcement
+
+**Generally Available: GRS and CRR support for Azure VMs using Premium SSD v2 and Ultra Disk in Azure Backup**  
+https://azure.microsoft.com/en-us/updates/v2/AzBackupGrsForPv2Ultra
+
+**Generally Available: Azure Elastic SAN for Azure VMware Solution**  
+https://azure.microsoft.com/en-us/updates/v2/AzureElasticSAN-for-AVS
+
 **Retirement: Older versions of EA Azure Price Sheet – Download by Billing Account API**  
 https://azure.microsoft.com/en-us/updates/v2/Cost-Management-Download-by-Billing-Account-API-version-retirement
 
