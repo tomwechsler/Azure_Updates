@@ -1,3 +1,27 @@
+**Retirement: Update on retirement of TLS 1.0 and TLS 1.1 versions for Azure Services**  
+https://azure.microsoft.com/en-us/updates/v2/Update-retirement-TLS1-0-TLS1-1-versions-Azure-Services
+
+**Generally Available: Azure App Configuration – Premium pricing plan now generally available**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-App-Configuration-Premium-pricing-plan-now-generally-available
+
+**Public Preview: Immutable WORM Storage for Backups in Azure Recovery Services Vaults**  
+https://azure.microsoft.com/en-us/updates/v2/Immutable-WORM-Storage-for-Backups-in-Azure-Recovery-Services-Vaults
+
+**Public Preview: Azure Functions support for Node.js 22**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Functions-support-for-Nodejs-22
+
+**Generally Available: FinOps toolkit 0.6 - September 2024**  
+https://azure.microsoft.com/en-us/updates/v2/FinOps-toolkit-0-6-September-2024
+
+**Generally Available: Set fail criteria on server metrics in Azure Load Testing**  
+https://azure.microsoft.com/en-us/updates/v2/fail-criteria-on-server-metrics-in-MALT
+
+**Generally Available: In-place scaling for Enterprise caches**  
+https://azure.microsoft.com/en-us/updates/v2/In-place-scaling-for-Enterprise-caches
+
+**Generally Available: Azure SQL updates for late-October 2024**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-SQL-updates-for-late-October-2024
+
 **Generally Available: ED25519 SSH key support for Linux VMs**  
 https://azure.microsoft.com/en-us/updates/v2/linux-sssh-ed25519
 
