@@ -1,3 +1,33 @@
+**Public Preview: Edit network features for Azure NetApp Files with no downtime**  
+https://azure.microsoft.com/en-us/updates/v2/edit-network-no-downtime
+
+**Public Preview: API Management & API Center Synchronization**  
+https://azure.microsoft.com/en-us/updates/v2/API-Management-API-Center-Synchronization
+
+**Generally Available: Live Resize for Azure Premium SSD v2 and Ultra Disks**  
+https://azure.microsoft.com/en-us/updates/v2/Live-Resize-for-Azure-Premium-SSD-v2-and-Ultra-Disks1
+
+**Generally Available: App Service multi plan subnet join**  
+https://azure.microsoft.com/en-us/updates/v2/Announcing-App-Service-Multi-Plan-Subnet-Join
+
+**Retirement: Change Analysis (classic) API in Azure Monitor is retiring**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Monitor-Change-Analysis-Retirement
+
+**Retirement: Azure Health Data Services Retirement of Qatar Central Region**  
+https://azure.microsoft.com/en-us/updates/v2/AHDS-Qatar-Central-Region-Retirement
+
+**Retirement: Azure Stream Analytics PowerBI output connector**  
+https://azure.microsoft.com/en-us/updates/v2/Azure-Stream-Analytics-PowerBI-output-connector
+
+**Generally Available: Azure Premium SSD v2 Disk Storage is now available in more regions**  
+https://azure.microsoft.com/en-us/updates/v2/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions
+
+**Generally Available: Bot Manager Ruleset 1.1 on Azure WAF with Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/v2/General-availability-Bot-Manager-Ruleset-1-1-on-Azure-WAF-with-Azure-Application-Gateway
+
+**Generally Available: App Insights Code Optimizations**  
+https://azure.microsoft.com/en-us/updates/v2/AppInsights-CodeOpt-NowAvailable
+
 **Retirement: Update on retirement of TLS 1.0 and TLS 1.1 versions for Azure Services**  
 https://azure.microsoft.com/en-us/updates/v2/Update-retirement-TLS1-0-TLS1-1-versions-Azure-Services
 
