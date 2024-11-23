@@ -1,3 +1,27 @@
+**Public Preview: Managed Service Identity for Azure Storage extension in Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=467519
+
+**Public Preview: Network security perimeter with Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=467269
+
+**Public Preview: Azure SQL updates for mid-November 2024**  
+https://azure.microsoft.com/en-us/updates/?id=467743
+
+**Public Preview: New Linux-based Azure Cosmos DB Emulator**  
+https://azure.microsoft.com/en-us/updates/?id=467444
+
+**Public Preview: Change streams on vCore-based Azure Cosmos DB for MongoDB**  
+https://azure.microsoft.com/en-us/updates/?id=467490
+
+**Public Preview: Autoscale in vCore based Azure Cosmos DB for MongoDB**  
+https://azure.microsoft.com/en-us/updates/?id=467439
+
+**Generally Available: Azure Database for PostgreSQL support for oracle_fdw extension**  
+https://azure.microsoft.com/en-us/updates/?id=467504
+
+**Public Preview: Elastic clusters on Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=467514
+
 **Generally Available: Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration**  
 https://azure.microsoft.com/en-us/updates/?id=468335
 
