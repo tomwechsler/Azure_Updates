@@ -1,3 +1,15 @@
+**Public Preview: Visual Studio Code extension for Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=470097
+
+**Generally Available: Da/Ea/Fav6 series AMD based Azure Virtual Machines (VMs)**  
+https://azure.microsoft.com/en-us/updates/?id=470092
+
+**Public Preview: Read and read/write privileges for secondary users in vCore-based Azure Cosmos DB for MongoDB**  
+https://azure.microsoft.com/en-us/updates/?id=470102
+
+**Retirement: Azure PostgreSQL migration extension in Azure Data Studio**  
+https://azure.microsoft.com/en-us/updates/?id=470131
+
 **Public Preview: Managed Service Identity for Azure Storage extension in Azure Database for PostgreSQL**  
 https://azure.microsoft.com/en-us/updates/?id=467519
 
