@@ -1,3 +1,15 @@
+**Public Preview: Data API in vCore-based Azure Cosmos DB for MongoDB**  
+https://azure.microsoft.com/en-us/updates/?id=467485
+
+**Generally Available: Regional Disaster Recovery by Azure Backup for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=469695
+
+**Generally Available: Star pattern and default node identifier in Kusto**  
+https://azure.microsoft.com/en-us/updates/?id=470314
+
+**Public Preview: New graph operators in Kusto**  
+https://azure.microsoft.com/en-us/updates/?id=470309
+
 **Public Preview: Visual Studio Code extension for Azure Cosmos DB**  
 https://azure.microsoft.com/en-us/updates/?id=470097
 
