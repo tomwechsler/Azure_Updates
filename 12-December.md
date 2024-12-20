@@ -1,3 +1,9 @@
+**Public Preview: Risk and safety evaluations for image and multimodal content in Azure AI Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=469221
+
+**Public Preview: Azure Database for MySQL bindings for Azure Functions**  
+https://azure.microsoft.com/en-us/updates/?id=472040
+
 **Generally Available: Extension of limited-time promotional discounts on Azure Databricks Serverless Compute Services**  
 https://azure.microsoft.com/en-us/updates/?id=467457
 
