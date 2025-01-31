@@ -1,3 +1,24 @@
+**Generally Available: Azure Automation is revising Service and Subscription limits**  
+https://azure.microsoft.com/en-us/updates/?id=476622
+
+**Generally Available: Azure Confidential Ledger Achieves ISO 27001 Certification**  
+https://azure.microsoft.com/en-us/updates/?id=476204
+
+**Public Preview: Seamless Amazon API Gateway Integration for API Center**  
+https://azure.microsoft.com/en-us/updates/?id=476533
+
+**Retirement: All Azure Automation jobs running on Agent-based Hybrid Worker will be stopped from 1 April 2025**  
+https://azure.microsoft.com/en-us/updates/?id=477734
+
+**Retirement: Azure Automation will discontinue execution of PowerShell runbooks using AzureRM modules from February 1, 2025**  
+https://azure.microsoft.com/en-us/updates/?id=477700
+
+**Retirement: Resources interacting with Azure Automation using TLS 1.0/1.1 protocol will be blocked from March 1,2025**  
+https://azure.microsoft.com/en-us/updates/?id=477729
+
+**Generally Available: Changes to instance size flexibility ratios for Azure Reserved Virtual Machine Instances for M-series**  
+https://azure.microsoft.com/en-us/updates/?id=478063
+
 **Generally Available: WebSocket support in Application Gateway for Containers**  
 https://azure.microsoft.com/en-us/updates/?id=475194
 
