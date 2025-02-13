@@ -1,3 +1,18 @@
+**Public Preview: New Origin Types for Azure Front Door Premium Private Link-Enabled Origins**  
+https://azure.microsoft.com/en-us/updates/?id=479730
+
+**Public Preview: Azure Firewall Updates - Health Monitoring and BYOIP Support for Secured Virtual Hubs**  
+https://azure.microsoft.com/en-us/updates/?id=479976
+
+**Generally Available: Fallback to Internet on Private DNS Zones**  
+https://azure.microsoft.com/en-us/updates/?id=480005
+
+**Generally Available: Azure Firewall Updates - Increased IP Group Limits**  
+https://azure.microsoft.com/en-us/updates/?id=479971
+
+**Generally Available: Azure Premium SSD v2 Disk Storage Is Now Available in One More Region**  
+https://azure.microsoft.com/en-us/updates/?id=479800
+
 **Generally Available: Azure DNS Public Zones DNS Security Extensions (DNSSEC) support**  
 https://azure.microsoft.com/en-us/updates/?id=479465
 
