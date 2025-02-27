@@ -1,3 +1,36 @@
+**Generally Available: New Pricing for Azure Virtual Network Manager**  
+https://azure.microsoft.com/en-us/updates/?id=480669
+
+**Generally Available: 6th generation Intel-based VMs - Dv6/Ev6**  
+https://azure.microsoft.com/en-us/updates/?id=478996
+
+**Public Preview: Modernization Advisor for SQL Server on Azure Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=479214
+
+**Public Preview: Azure SQL Updates for Mid-February 2025**  
+https://azure.microsoft.com/en-us/updates/?id=479209
+
+**Public Preview: Virtual Canary Maintenance Program**  
+https://azure.microsoft.com/en-us/updates/?id=479176
+
+**Generally Available: Discovery of PostgreSQL Installed on Azure Arc-enabled Servers**  
+https://azure.microsoft.com/en-us/updates/?id=479185
+
+**Generally Available: Azure Database for PostgreSQL pg_signal_autovaccum_worker role**  
+https://azure.microsoft.com/en-us/updates/?id=479194
+
+**Public Preview: Upgrade Existing Azure Gen 1 VMs to Gen2-Trusted Launch**  
+https://azure.microsoft.com/en-us/updates/?id=481565
+
+**Generally Available: Scheduled Load Tests in Azure Load Testing**  
+https://azure.microsoft.com/en-us/updates/?id=480458
+
+**Generally Available: The Modern Version of the Azure Storage Data Movement Library**  
+https://azure.microsoft.com/en-us/updates/?id=481361
+
+**Generally Available: Support for Multiple JMeter Files in Azure Load Teasting**  
+https://azure.microsoft.com/en-us/updates/?id=480463
+
 **Public Preview: New Origin Types for Azure Front Door Premium Private Link-Enabled Origins**  
 https://azure.microsoft.com/en-us/updates/?id=479730
 
