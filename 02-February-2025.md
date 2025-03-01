@@ -1,3 +1,30 @@
+**Public Preview: Azure Migrate Supports Premium SSD v2 Disks**  
+https://azure.microsoft.com/en-us/updates/?id=482220
+
+**Public Preview: Azure Container Storage on managed Prometheus**  
+https://azure.microsoft.com/en-us/updates/?id=467008
+
+**Generally Available: Azure Ultra Disk Storage is Now Available in New Zeeland North**  
+https://azure.microsoft.com/en-us/updates/?id=482057
+
+**Generally Available: Azure Site Recovery Pricing Calculator for Azure to Azure Managed Disks**  
+https://azure.microsoft.com/en-us/updates/?id=482319
+
+**Generally Available: Azure Load Balancer Health Event Logs**  
+https://azure.microsoft.com/en-us/updates/?id=481818
+
+**Public Preview: Azure SQL Updates for Late-February**  
+https://azure.microsoft.com/en-us/updates/?id=481952
+
+**Generally Available: Azure SQL Updates for Late-February**  
+https://azure.microsoft.com/en-us/updates/?id=481947
+
+**Public Preview: Unified Migration Experience in Azure Database Migration Service**  
+https://azure.microsoft.com/en-us/updates/?id=481937
+
+**Generally Available: Latest PostgreSQL Minor Versions Supported by Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=474864
+
 **Generally Available: New Pricing for Azure Virtual Network Manager**  
 https://azure.microsoft.com/en-us/updates/?id=480669
 
