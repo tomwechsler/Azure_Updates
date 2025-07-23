@@ -1,3 +1,57 @@
+**Generally Available: Azure Firewall now supports ingestion-time transformation in Log Analytics for flexible, cost-efficient logging**  
+https://azure.microsoft.com/en-us/updates/?id=498568
+
+**Public Preview: Azure Functions Kafka trigger support in Consumption plan**  
+https://azure.microsoft.com/en-us/updates/?id=498139
+
+**Generally Available: Durable Functions PowerShell SDK as a standalone module**  
+https://azure.microsoft.com/en-us/updates/?id=498149
+
+**Public Preview: Orchestration versioning for Durable Functions and durable task SDKs**  
+https://azure.microsoft.com/en-us/updates/?id=498144
+
+**Public Preview: AZNFS (3.0) for BlobNFS with FUSE for superior performance**  
+https://azure.microsoft.com/en-us/updates/?id=498054
+
+**Generally Available: Node auto-provisioning support in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=498247
+
+**Generally Available: Virtual Machines node pools support in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=498258
+
+**Public Preview: CLI command for migration from Availability Sets and Basic load balancer on AKS**  
+https://azure.microsoft.com/en-us/updates/?id=498263
+
+**Public Preview: Max blocked nodes allowed support in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=498252
+
+**Generally Available: Cluster Extension Manager move to AKS control plane**  
+https://azure.microsoft.com/en-us/updates/?id=498242
+
+**Generally Available: Geo-Replication for Azure Event Hubs Premium and Dedicated**  
+https://azure.microsoft.com/en-us/updates/?id=491538
+
+**Generally Available: GRS and CRR support for Azure VMs using Premium SSD v2 in Azure Backup availability in Norway and Japan**  
+https://azure.microsoft.com/en-us/updates/?id=498484
+
+**Generally Available: Azure Backup standard policies suppport for Trusted Launch virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=498439
+
+**Generally Available: Azure Database for PostgreSQL flexible server: Indonesia Central**  
+https://azure.microsoft.com/en-us/updates/?id=498180
+
+**Retirement: Azure Front Door (classic) and Azure CDN from Microsoft Classic SKU ending CNAME based domain validation and new domain/ profile creations by August 15, 2025**  
+https://azure.microsoft.com/en-us/updates/?id=498522
+
+**Generally Available: Microsoft Azure Cloud HSM**  
+https://azure.microsoft.com/en-us/updates/?id=497993
+
+**Generally Available: Mirroring Azure Databricks Unity Catalog to Microsoft OneLake in Fabric**  
+https://azure.microsoft.com/en-us/updates/?id=498573
+
+**Retirement: Azure HDInsight - Enterprise Security Package**  
+https://azure.microsoft.com/en-us/updates/?id=497263
+
 **Generally Available: Migrate Azure VM backups from standard to enhanced policy**  
 https://azure.microsoft.com/en-us/updates/?id=497155
 
