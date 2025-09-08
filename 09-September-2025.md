@@ -1,3 +1,27 @@
+**Public Preview: .NET 10 Preview Now Available on Azure App Service**  
+https://azure.microsoft.com/en-us/updates/?id=501896
+
+**Public Preview: Azure Functions support for Python 3.13**  
+https://azure.microsoft.com/en-us/updates/?id=501970
+
+**Retirement: Azure CDN will be retired on December 1, 2025 in China**  
+https://azure.microsoft.com/en-us/updates/?id=501678
+
+**Generally Available: Azure NetApp Files migration assistant**  
+https://azure.microsoft.com/en-us/updates/?id=502607
+
+**Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas**  
+https://azure.microsoft.com/en-us/updates/?id=500520
+
+**Generally Available: Near-zero-downtime maintainance in Azure Database for MySQL**  
+https://azure.microsoft.com/en-us/updates/?id=500765
+
+**Generally Available: Upgrade existing Azure Gen1 Vms to Gen2-Trusted lauch**  
+https://azure.microsoft.com/en-us/updates/?id=499104
+
+**Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks**  
+https://azure.microsoft.com/en-us/updates/?id=502583
+
 **Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management**  
 https://azure.microsoft.com/en-us/updates/?id=501804
 
