@@ -1,3 +1,48 @@
+**Public Preview: Graph Query Language (GQL) in KQL graph semantics**  
+https://azure.microsoft.com/en-us/updates/?id=502638
+
+**Retirement: Operating System (OS) Disks on Standard HDD will be retired on 08 September 2028**  
+https://azure.microsoft.com/en-us/updates/?id=500157
+
+**Retirement: Microsoft Playwright Testing (Preview) will be retired on March8, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=499860
+
+**Generally Available: Multitenant Managed Logging in Container Insights**  
+https://azure.microsoft.com/en-us/updates/?id=502561
+
+**Private Preview: Azure AMD-based Dasv7, Easv7, and Fasv7-series Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=500175
+
+**Generally Available: Azure D192 Sizes in the Azure Dsv6 and Ddsv6-series VM Families**  
+https://azure.microsoft.com/en-us/updates/?id=503049
+
+**Public Preview: File share centric management model (Microsoft.FileShares) for Azure Files**  
+https://azure.microsoft.com/en-us/updates/?id=503096
+
+**Public Preview: Azure MySQL Self Heal**  
+https://azure.microsoft.com/en-us/updates/?id=501999
+
+**Generally Available: Azure Database for PostgreSQL flexible server in Austria East and Chile Central**  
+https://azure.microsoft.com/en-us/updates/?id=502009
+
+**Generally Available: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key**  
+https://azure.microsoft.com/en-us/updates/?id=501980
+
+**Generally Available: Azure Database for MySQL 8.4**  
+https://azure.microsoft.com/en-us/updates/?id=501989
+
+**Generally Available: Azure MySQL Extended Support**  
+https://azure.microsoft.com/en-us/updates/?id=501994
+
+**Generally Available: Azure Databricks automatic identity management**  
+https://azure.microsoft.com/en-us/updates/?id=502633
+
+**Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica Cluster**  
+https://azure.microsoft.com/en-us/updates/?id=501975
+
+**Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service**  
+https://azure.microsoft.com/en-us/updates/?id=501891
+
 **Public Preview: .NET 10 Preview Now Available on Azure App Service**  
 https://azure.microsoft.com/en-us/updates/?id=501896
 
