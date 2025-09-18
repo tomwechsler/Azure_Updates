@@ -1,3 +1,21 @@
+**Retirement: Azure Linux 2.0 on AKS**  
+https://azure.microsoft.com/en-us/updates/?id=500645
+
+**Generally Available: Backend TLS validation controls in Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=503393
+
+**Generally Available: Azure SQL hub experience in Azure portal**  
+https://azure.microsoft.com/en-us/updates/?id=502014
+
+**Generally Available: Enabling dedicated connections to backends in Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=503398
+
+**Retirement: hsmPlatform 1 Keys in Azure Key Vault**  
+https://azure.microsoft.com/en-us/updates/?id=494676
+
+**Retirement: Azure Databricks Standard tier will retire by October 2026**  
+https://azure.microsoft.com/en-us/updates/?id=502623
+
 **Public Preview: Graph Query Language (GQL) in KQL graph semantics**  
 https://azure.microsoft.com/en-us/updates/?id=502638
 
