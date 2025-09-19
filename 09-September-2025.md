@@ -1,3 +1,21 @@
+**Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees**  
+https://azure.microsoft.com/en-us/updates/?id=502853
+
+**Generally Available: AKS Automatic**  
+https://azure.microsoft.com/en-us/updates/?id=503235
+
+**Generally Available: Azure File Sync in Poland Central and Spain Central**  
+https://azure.microsoft.com/en-us/updates/?id=503421
+
+**Public Preview: Azure HBv5-series VMs**  
+https://azure.microsoft.com/en-us/updates/?id=503129
+
+**Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local**  
+https://azure.microsoft.com/en-us/updates/?id=500294
+
+**Generally Available: At-cost data transfer between Azure and an external endpoint**  
+https://azure.microsoft.com/en-us/updates/?id=501915
+
 **Retirement: Azure Linux 2.0 on AKS**  
 https://azure.microsoft.com/en-us/updates/?id=500645
 
