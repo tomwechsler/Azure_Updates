@@ -1,3 +1,15 @@
+**Generally Available: Distributed tracing for Durable Functions**  
+https://azure.microsoft.com/en-us/updates/?id=503139
+
+**Public Preview: Azure Kubernetes Fleet Manager - update run approval gates**  
+https://azure.microsoft.com/en-us/updates/?id=503245
+
+**Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs)**  
+https://azure.microsoft.com/en-us/updates/?id=502874
+
+**Retirement: Licensing changes for future Azure VMware Solution subscriptions starting October 16, 2025**  
+https://azure.microsoft.com/en-us/updates/?id=503878
+
 **Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees**  
 https://azure.microsoft.com/en-us/updates/?id=502853
 
