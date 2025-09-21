@@ -1,3 +1,15 @@
+**Generally Available: Azure Data Box Next Gen is now generally available in additional regions**  
+https://azure.microsoft.com/en-us/updates/?id=503350
+
+**Public Preview: Azure Managed Service for Prometheus now includes native Grafana dashboards within the Azure portal**  
+https://azure.microsoft.com/en-us/updates/?id=503286
+
+**Generally Available: High Scale mode for Azure Monitor - Container Insights**  
+https://azure.microsoft.com/en-us/updates/?id=503034
+
+**Public Preview: Azure Kubernetes Fleet Manager - auto-upgrade target Kubernetes version channel**  
+https://azure.microsoft.com/en-us/updates/?id=503240
+
 **Generally Available: Distributed tracing for Durable Functions**  
 https://azure.microsoft.com/en-us/updates/?id=503139
 
