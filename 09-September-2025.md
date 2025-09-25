@@ -1,3 +1,21 @@
+**Generally Available: GitHub Copilot app modernization capabilities for Java and .NET are now available**  
+https://azure.microsoft.com/en-us/updates/?id=503603
+
+**Retirement: NVv3-series Azure Virtual Machines will be retired on September 30, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=500573
+
+**Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks**  
+https://azure.microsoft.com/en-us/updates/?id=502998
+
+**Generally Available: Vaulted backup for Azure Files (Premium)**  
+https://azure.microsoft.com/en-us/updates/?id=503806
+
+**Public Preview: Signed request on Azure Front Door**  
+https://azure.microsoft.com/en-us/updates/?id=501169
+
+**Generally Available: Using Server-sent events with Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=503909
+
 **Generally Available: Azure Data Box Next Gen is now generally available in additional regions**  
 https://azure.microsoft.com/en-us/updates/?id=503350
 
