@@ -1,3 +1,18 @@
+**Retirement: The Insights blade in AKS is now called Monitor**  
+https://azure.microsoft.com/en-us/updates/?id=497368
+
+**Generally Available: Azure NetApp Files Flexible service level**  
+https://azure.microsoft.com/en-us/updates/?id=503687
+
+**Retirement: Azure Disk Encryption**  
+https://azure.microsoft.com/en-us/updates/?id=493779
+
+**Public Preview: Discover and assess PostgreSQL in Azure Migrate**  
+https://azure.microsoft.com/en-us/updates/?id=503641
+
+**Generally Available: Delete on-demand backup in Azure DB for MySQL-Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=503622
+
 **Generally Available: GitHub Copilot app modernization capabilities for Java and .NET are now available**  
 https://azure.microsoft.com/en-us/updates/?id=503603
 
