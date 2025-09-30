@@ -1,3 +1,18 @@
+**Retirement: Azure App Service on Azure Arc enabled Kubernetes**  
+https://azure.microsoft.com/en-us/updates/?id=500016
+
+**Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2**  
+https://azure.microsoft.com/en-us/updates/?id=498563
+
+**Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption**  
+https://azure.microsoft.com/en-us/updates/?id=499451
+
+**Retirement: Entity Linking from Azure AI Language**  
+https://azure.microsoft.com/en-us/updates/?id=499851
+
+**Azure VMware Solution AV36 Node Retirement on June 30, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=503883
+
 **Retirement: The Insights blade in AKS is now called Monitor**  
 https://azure.microsoft.com/en-us/updates/?id=497368
 
