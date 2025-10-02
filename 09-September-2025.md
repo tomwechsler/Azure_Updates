@@ -1,3 +1,18 @@
+**Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor**  
+https://azure.microsoft.com/en-us/updates/?id=506317
+
+**Retirement: Spark Native Connector for Semantic  Link**  
+https://azure.microsoft.com/en-us/updates/?id=502602
+
+**Retirement: NVv4-series Azure Virtual Machines will be retired on September 30, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=500578
+
+**Retirement: Support for Service Connector (preview) on Azure Container Apps will end on March 30th, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=501528
+
+**Public Preview: Soft Delete feature in Azure Compute Gallery**  
+https://azure.microsoft.com/en-us/updates/?id=506886
+
 **Retirement: Azure App Service on Azure Arc enabled Kubernetes**  
 https://azure.microsoft.com/en-us/updates/?id=500016
 
