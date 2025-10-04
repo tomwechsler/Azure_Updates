@@ -1,7 +1,10 @@
+**Generally Available: New Health Check infrastructure for Azure Traffic Manager**  
+https://azure.microsoft.com/en-us/updates/?id=509097
+
 **Public Preview: Azure SQL updates for late September 2025**  
 https://azure.microsoft.com/en-us/updates/?id=503612
 
-**Retirement: Azure Network Policy Manager (NPM) for Linux nides on AKS to Be Retired by September 30, 2028**  
+**Retirement: Azure Network Policy Manager (NPM) for Linux nodes on AKS to Be Retired by September 30, 2028**  
 https://azure.microsoft.com/en-us/updates/?id=500268
 
 **Public Preview: MSSQL extension integration with Microsoft Fabric**  
