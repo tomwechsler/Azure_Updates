@@ -1,3 +1,18 @@
+**Generally Available: AI toolchain operator add-on (KAITO) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=503263
+
+**Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=500853
+
+**Generally Available: Azure NetApp Files short-term clones**  
+https://azure.microsoft.com/en-us/updates/?id=503836
+
+**Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy**  
+https://azure.microsoft.com/en-us/updates/?id=511722
+
+**Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=500273
+
 **Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server**  
 https://azure.microsoft.com/en-us/updates/?id=503636
 
