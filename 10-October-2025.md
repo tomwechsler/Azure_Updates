@@ -1,3 +1,12 @@
+**Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027**  
+https://azure.microsoft.com/en-us/updates/?id=499606
+
+**Retirement: Azure Cache for Redis is retiring on September 30, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=499577
+
+**Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage**  
+https://azure.microsoft.com/en-us/updates/?id=508971
+
 **Generally Available: AI toolchain operator add-on (KAITO) for AKS**  
 https://azure.microsoft.com/en-us/updates/?id=503263
 
