@@ -1,3 +1,15 @@
+**Retirement: Azure AI Health Insights and related models**  
+https://azure.microsoft.com/en-us/updates/?id=502049
+
+**Generally Available: Firmware analysis enabled by Azure Arc**  
+https://azure.microsoft.com/en-us/updates/?id=512201
+
+**Generally Available: Azure Firewall updates - Customer provided public IP address support in secured hubs**  
+https://azure.microsoft.com/en-us/updates/?id=512875
+
+**Generally Available: Custom port support for Azure Database for MySQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=503627
+
 **Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027**  
 https://azure.microsoft.com/en-us/updates/?id=499606
 
