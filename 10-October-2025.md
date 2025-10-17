@@ -1,3 +1,48 @@
+**Generally Available: Locations API Update for UK Azure Regions**  
+https://azure.microsoft.com/en-us/updates/?id=513376
+
+**Retirement: The F, Fs, Fsv2; Lsv2, G, Gs, Av2, Amv2, and B series VMs are retiring in 2028**  
+https://azure.microsoft.com/en-us/updates/?id=500682
+
+**Generally Available: Azure Storage Discovery**  
+https://azure.microsoft.com/en-us/updates/?id=515479
+
+**Generally Available: SAP Business Data Cloud Connect to Azure Databricks**  
+https://azure.microsoft.com/en-us/updates/?id=511743
+
+**Public Preview: Private Link Service Direct Connect**  
+https://azure.microsoft.com/en-us/updates/?id=503988
+
+**Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption**  
+https://azure.microsoft.com/en-us/updates/?id=512379
+
+**Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service**  
+https://azure.microsoft.com/en-us/updates/?id=500775
+
+**Generally Available: Azure Site Recovery support for Ultra Disks**  
+https://azure.microsoft.com/en-us/updates/?id=513518
+
+**Generally Available: Spot Placement Score**  
+https://azure.microsoft.com/en-us/updates/?id=511898
+
+**Generally Available: Azure Event Grid nrw capabilities**  
+https://azure.microsoft.com/en-us/updates/?id=513855
+
+**Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET**  
+https://azure.microsoft.com/en-us/updates/?id=508413
+
+**Public Preview: Azure Integrated HSM**  
+https://azure.microsoft.com/en-us/updates/?id=503325
+
+**Public Preview: PostgreSQL 18 on Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=508403
+
+**Retirement: Azure Custom Vision will be retired on September 25, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=502914
+
+**Public Preview: Environmental sustainability features in Azure API Management**  
+https://azure.microsoft.com/en-us/updates/?id=513074
+
 **Retirement: Azure AI Health Insights and related models**  
 https://azure.microsoft.com/en-us/updates/?id=502049
 
