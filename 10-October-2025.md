@@ -1,3 +1,12 @@
+**Generally Available: Observed capacity metric in Azure Firewall**  
+https://azure.microsoft.com/en-us/updates/?id=516002
+
+**Generally Available: Prescaling in Azure Firewall**  
+https://azure.microsoft.com/en-us/updates/?id=515452
+
+**Retirement: Confidential Containers preview on AKS is Closing Down**  
+https://azure.microsoft.com/en-us/updates/?id=502044
+
 **Generally Available: Locations API Update for UK Azure Regions**  
 https://azure.microsoft.com/en-us/updates/?id=513376
 
