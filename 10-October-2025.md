@@ -1,3 +1,12 @@
+**Generally Available: Azure Functions support for Python 3.13**  
+https://azure.microsoft.com/en-us/updates/?id=512374
+
+**Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)**  
+https://azure.microsoft.com/en-us/updates/?id=513752
+
+**Generally Available: New OS SKU enum to migrate to Azure Linux 3.0**  
+https://azure.microsoft.com/en-us/updates/?id=512396
+
 **Generally Available: Observed capacity metric in Azure Firewall**  
 https://azure.microsoft.com/en-us/updates/?id=516002
 
