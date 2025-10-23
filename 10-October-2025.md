@@ -1,3 +1,12 @@
+**Generally Available: Enhanced cloning and Public IP retention scripts for Azure Application Gateway migration**  
+https://azure.microsoft.com/en-us/updates/?id=517027
+
+**Public Preview: Sharing Capacity Reservation Groups**  
+https://azure.microsoft.com/en-us/updates/?id=516897
+
+**Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover**  
+https://azure.microsoft.com/en-us/updates/?id=514653
+
 **Generally Available: Azure Functions support for Python 3.13**  
 https://azure.microsoft.com/en-us/updates/?id=512374
 
