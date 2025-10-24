@@ -1,3 +1,12 @@
+**Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers**  
+https://azure.microsoft.com/en-us/updates/?id=502004
+
+**Generally Available: Azure SQL updates for mid-October 2025**  
+https://azure.microsoft.com/en-us/updates/?id=513240
+
+**Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores**  
+https://azure.microsoft.com/en-us/updates/?id=516990 
+
 **Generally Available: Enhanced cloning and Public IP retention scripts for Azure Application Gateway migration**  
 https://azure.microsoft.com/en-us/updates/?id=517027
 
