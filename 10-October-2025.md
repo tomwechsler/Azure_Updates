@@ -1,3 +1,6 @@
+**Retirement: Azure Computer Vision - Image Analysis will be retired on September 25, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=502909
+
 **Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers**  
 https://azure.microsoft.com/en-us/updates/?id=502004
 
