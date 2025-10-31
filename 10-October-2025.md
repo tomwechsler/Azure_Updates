@@ -1,3 +1,21 @@
+**Generally Available: Azure Sphere OS version 25.10 is now available for evaluation**  
+https://azure.microsoft.com/en-us/updates/?id=519310
+
+**Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door**  
+https://azure.microsoft.com/en-us/updates/?id=512751
+
+**Retirement: Remove dependency on these preview features before March 31, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=501663
+
+**Generally Available: RHEL Software Reservations Now Available on Azure with Updated Pricing**  
+https://azure.microsoft.com/en-us/updates/?id=519526
+
+**Generally Available: PgBouncer 1.23.1 support in Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=513254
+
+**Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target**  
+https://azure.microsoft.com/en-us/updates/?id=514658
+
 **Retirement: Azure Computer Vision - Image Analysis will be retired on September 25, 2028**  
 https://azure.microsoft.com/en-us/updates/?id=502909
 
