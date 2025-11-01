@@ -1,3 +1,15 @@
+**Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage**  
+https://azure.microsoft.com/en-us/updates/?id=520805
+
+**Retirement: Support for Node.js 20 end on Aprol 30, 2026 - upgrade your apps to Node.js 22**  
+https://azure.microsoft.com/en-us/updates/?id=502957
+
+**Generally Available: High Scale Private Endpoints**  
+https://azure.microsoft.com/en-us/updates/?id=522813
+
+**Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption**  
+https://azure.microsoft.com/en-us/updates/?id=520822
+
 **Generally Available: Azure Sphere OS version 25.10 is now available for evaluation**  
 https://azure.microsoft.com/en-us/updates/?id=519310
 
