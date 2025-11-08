@@ -1,3 +1,21 @@
+**Public Preview: GitHub Copilot in SQL Server Management Studio (SSMS)**  
+https://azure.microsoft.com/en-us/updates/?id=520729
+
+**Public Preview: Szure SQL updates for early November 2025**  
+https://azure.microsoft.com/en-us/updates/?id=520715
+
+**Generally Available: Azure MCP Server**  
+https://azure.microsoft.com/en-us/updates/?id=526881
+
+**Public Preview: Azure Database for PostgreSQL read replicas with Premium SSD v2**  
+https://azure.microsoft.com/en-us/updates/?id=520710
+
+**Generally Available: Object Replication Metrics**  
+https://azure.microsoft.com/en-us/updates/?id=520201
+
+**Generally Available: Ultra Disk's new flexible provisioning model**  
+https://azure.microsoft.com/en-us/updates/?id=526635
+
 **Open Source: Announcing the DocumentDB Kubernetes Operator**  
 https://azure.microsoft.com/en-us/updates/?id=520686
 
