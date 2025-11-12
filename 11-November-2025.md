@@ -1,3 +1,12 @@
+**Generally Available: Azure Database for PostgreSQL - Flexible Server availability zones expansion in Japan West**  
+https://azure.microsoft.com/en-us/updates/?id=508408
+
+**Public Preview: openCypher support for KQL graph sematics**  
+https://azure.microsoft.com/en-us/updates/?id=522866
+
+**Generally Available: labels() function in KQL graph semantics**  
+https://azure.microsoft.com/en-us/updates/?id=522772
+
 **Public Preview: GitHub Copilot in SQL Server Management Studio (SSMS)**  
 https://azure.microsoft.com/en-us/updates/?id=520729
 
