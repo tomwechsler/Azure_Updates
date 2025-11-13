@@ -1,3 +1,15 @@
+**Generally Available: Troubleshoot Azure Firewall using packet capture**  
+https://azure.microsoft.com/en-us/updates/?id=528969
+
+**Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)**  
+https://azure.microsoft.com/en-us/updates/?id=525419
+
+**Generally Available: Object Replication Priority for Azure Blob**  
+https://azure.microsoft.com/en-us/updates/?id=522072
+
+**Generally Available: Geo Priority Replication for Azure Blob**  
+https://azure.microsoft.com/en-us/updates/?id=522059
+
 **Generally Available: Azure Database for PostgreSQL - Flexible Server availability zones expansion in Japan West**  
 https://azure.microsoft.com/en-us/updates/?id=508408
 
