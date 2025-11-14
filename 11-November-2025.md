@@ -1,3 +1,39 @@
+**Public Preview: Scheduler profile configuration for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523134
+
+**Generally Available: Server Parameters support for lower_case_table_names in Azure Database for MySQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=523787
+
+**Generally Available: Azure Database for MySQL Triggers for Azure Functions**  
+https://azure.microsoft.com/en-us/updates/?id=508390
+
+**Generally Available: .NET 10**  
+https://azure.microsoft.com/en-us/updates/?id=526895
+
+**Public Preview: Azure Linux OS Guard for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523172
+
+**Generally Available: Azure WAF JavaScript challenge on Azure Front Door**  
+https://azure.microsoft.com/en-us/updates/?id=513802
+
+**Public Preview: Flatcar Container Linux for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523067
+
+**Public Preview: Agentic CLI for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523062
+
+**Generally Available: DNS flow trace logs for Azure Firewall**  
+https://azure.microsoft.com/en-us/updates/?id=526720
+
+**Generally Available: Vaulted Backup for Azure Data Storage (ADLS)**  
+https://azure.microsoft.com/en-us/updates/?id=523975
+
+**Public Preview: Insights in Azure Migrate**  
+https://azure.microsoft.com/en-us/updates/?id=526468
+
+**Generally Available: LocalDNS for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523057
+
 **Generally Available: Troubleshoot Azure Firewall using packet capture**  
 https://azure.microsoft.com/en-us/updates/?id=528969
 
