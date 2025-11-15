@@ -1,3 +1,12 @@
+**Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation**  
+https://azure.microsoft.com/en-us/updates/?id=526160
+
+**Generally Available: Azure Virtual Network Manager peering compliance**  
+https://azure.microsoft.com/en-us/updates/?id=526155
+
+**Generally Available: Azure Virtual Network Manager UseExisting Mode for UDR management**  
+https://azure.microsoft.com/en-us/updates/?id=526145
+
 **Public Preview: Scheduler profile configuration for AKS**  
 https://azure.microsoft.com/en-us/updates/?id=523134
 
