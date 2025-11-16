@@ -1,3 +1,15 @@
+**Public Preview: eBPF host routing in Advanced Container Networking Services (ACNS) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523100
+
+**Public Preview: Pod CIDR expansion in Azure CNI Overlay for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523086
+
+**Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc**  
+https://azure.microsoft.com/en-us/updates/?id=499906
+
+**Retirement: Support for Python 3.10 ends on October 1st, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=509686
+
 **Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation**  
 https://azure.microsoft.com/en-us/updates/?id=526160
 
