@@ -1,3 +1,21 @@
+**Generally Available: Seamless failback for HyperV-to-Azure: Managed Disk support in Azure Site Recovery**  
+https://azure.microsoft.com/en-us/updates/?id=530092
+
+**Generally Available: Capacity guidance for Azure Site Recovery**  
+https://azure.microsoft.com/en-us/updates/?id=530073
+
+**Public Preview: Support for Linux major OS upgrades with Azure Site Recovery**  
+https://azure.microsoft.com/en-us/updates/?id=530087
+
+**Public Preview: Support 5x churn in Azure Site Recovery**  
+https://azure.microsoft.com/en-us/updates/?id=530078
+
+**Generally Available: Visual Studio 2026**  
+https://azure.microsoft.com/en-us/updates/?id=526900
+
+**Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro**  
+https://azure.microsoft.com/en-us/updates/?id=529528
+
 **Public Preview: eBPF host routing in Advanced Container Networking Services (ACNS) for AKS**  
 https://azure.microsoft.com/en-us/updates/?id=523100
 
