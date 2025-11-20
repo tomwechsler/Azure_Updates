@@ -1,3 +1,123 @@
+**Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud**  
+https://azure.microsoft.com/en-us/updates/?id=523735
+
+**Public Preview: Dynamic data masking with Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=523726
+
+**Public Preview: Online ond offline migrations in Azure DocumentDB Migration extension**  
+https://azure.microsoft.com/en-us/updates/?id=523721
+
+**Generally Available: Online migration from Azure Cosmos DB for MongoDB RU to Azure DocumentDB**  
+https://azure.microsoft.com/en-us/updates/?id=523716
+
+**Public Preview: Oracle to PostgreSQL migration tooling in Visual Studio Code**  
+https://azure.microsoft.com/en-us/updates/?id=523593
+
+**Generally Available: 2025 REST API for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=523588
+
+**Generally Available: Elastic clusters on Azure Database for PostgreSQL - Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=523583
+
+**Public Preview: Native Microsoft Foundry support for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=523578
+
+**Generally Available: Azure Database for PostgreSQL - Flexible Server anon extension**  
+https://azure.microsoft.com/en-us/updates/?id=523569
+
+**Public Preview: Azure Database for PostgreSQL - Flexible Server v6 series VMs and AMD v6 Confidential Compute**  
+https://azure.microsoft.com/en-us/updates/?id=523564
+
+**Public Preview: Azure Database for PostgreSQL - Flexible Server pq_duckdb extension**  
+https://azure.microsoft.com/en-us/updates/?id=523559
+
+**Public Preview: Azure SQL change event streaming**  
+https://azure.microsoft.com/en-us/updates/?id=523533
+
+**Generally Available: PostgreSQL 18 with in-place upgrade on Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=523196
+
+**Generally Available: PostgreSQL extension for Visual Studio Code with GitHub Copilot**  
+https://azure.microsoft.com/en-us/updates/?id=523187
+
+**Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=523177
+
+**Generally Available: Azure Database for PostgreSQL storage extension support for Parquet**  
+https://azure.microsoft.com/en-us/updates/?id=523167
+
+**Generally Available: Azure SQL Managed Instance Next-gen General Purpose service tier**  
+https://azure.microsoft.com/en-us/updates/?id=523125
+
+**Public Preview: Azure SQL Database DiskANN vector indexing**  
+https://azure.microsoft.com/en-us/updates/?id=523110
+
+**Generally Available: MSSQL extension integration with GitHub Copilot in Visual Studio Code**  
+https://azure.microsoft.com/en-us/updates/?id=523105
+
+**Generally Available: Azure SQL Database long-term retention (LTR) backup immutability**  
+https://azure.microsoft.com/en-us/updates/?id=523095
+
+**Generally Available: SQL Server Management Studio (SSMS) 22**  
+https://azure.microsoft.com/en-us/updates/?id=522586
+
+**Generally Available: Microsoft Python driver for SQL Server**  
+https://azure.microsoft.com/en-us/updates/?id=522581
+
+**Generally Available: New SQL Server migration in Azure Arc**  
+https://azure.microsoft.com/en-us/updates/?id=522572
+
+**Generally Available: SQL Server 2025**  
+https://azure.microsoft.com/en-us/updates/?id=522559
+
+**Generally Available: Azure SQL updates for November 2025**  
+https://azure.microsoft.com/en-us/updates/?id=522523
+
+**Public Preview: Azure SQL updates for November 2025**  
+https://azure.microsoft.com/en-us/updates/?id=522514
+
+**Public Preview: Dynamic sessions shell environment and MCP support in Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/?id=512949
+
+**Public Preview: Deployment labels in Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/?id=512900
+
+**Generally Available: Rule-based routing in Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/?id=512850
+
+**Generally Available: Premium Ingress in Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/?id=512813
+
+**Public Preview: JWT Validation in Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=489855
+
+**Generally Available: Azure Application Gateway mTLS passthrough support**  
+https://azure.microsoft.com/en-us/updates/?id=488990
+
+**Public Preview: Entra-only identities support with Azure Files SMB**  
+https://azure.microsoft.com/en-us/updates/?id=527713
+
+**Private Preview: Azure HorizonDB**  
+https://azure.microsoft.com/en-us/updates/?id=529806
+
+**Generally Available: Private Marketplace for VS Code**  
+https://azure.microsoft.com/en-us/updates/?id=526909
+
+**Public Preview: Microsoft Defender for Cloud + GitHub Advanced Security**  
+https://azure.microsoft.com/en-us/updates/?id=526876
+
+**Public Preview: Smart Tier account level tiering (Azure Blob Storage and ADLS)**  
+https://azure.microsoft.com/en-us/updates/?id=526188
+
+**Public Preview: Managed Instance on Azure App Service**  
+https://azure.microsoft.com/en-us/updates/?id=523623
+
+**Public Preview: Azure Copilot agents - a closer look at the deployment agent**  
+https://azure.microsoft.com/en-us/updates/?id=526751
+
+**Generally Available: Claude in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=532303
+
 **Generally Available: Seamless failback for HyperV-to-Azure: Managed Disk support in Azure Site Recovery**  
 https://azure.microsoft.com/en-us/updates/?id=530092
 
