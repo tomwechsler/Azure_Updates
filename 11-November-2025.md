@@ -1,3 +1,33 @@
+**Public Preview: Microsoft Foundry data connection for Azure Databricks**  
+https://azure.microsoft.com/en-us/updates/?id=527678
+
+**Generally Available: TLS and TCP termination on Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=532202
+
+**Public Preview: Azure Databricks Genie in Copilot Studio**  
+https://azure.microsoft.com/en-us/updates/?id=527668
+
+**Public Preview: Azure API Management adds support for A2A Agent APIs**  
+https://azure.microsoft.com/en-us/updates/?id=527635
+
+**Public Preview: Azure Managed Redis integration with Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=532188
+
+**Public Preview: Recommended alerts for Azure Monitor Workspace**  
+https://azure.microsoft.com/en-us/updates/?id=515505
+
+**Public Preview: Auto-import for Azure Managed Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529342
+
+**Generally Available: Azure Managed Lustre Support for Azure MCP Server**  
+https://azure.microsoft.com/en-us/updates/?id=529381
+
+**Public Preview: 20 MB/s/TiB Performance Tier for Azure Management Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529359
+
+**Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529368
+
 **Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud**  
 https://azure.microsoft.com/en-us/updates/?id=523735
 
