@@ -1,3 +1,39 @@
+**Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift**  
+https://azure.microsoft.com/en-us/updates/?id=530174
+
+**Public Preview: Azure NetApp Files migration assistant (portal support)**  
+https://azure.microsoft.com/en-us/updates/?id=525620
+
+**Public Preview: Azure NetApp Files cache volumes**  
+https://azure.microsoft.com/en-us/updates/?id=523917
+
+**Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images**  
+https://azure.microsoft.com/en-us/updates/?id=529797
+
+**Generally Available: Azure Sphere OS version 25.10 is now available**  
+https://azure.microsoft.com/en-us/updates/?id=522390
+
+**Generally Available: DNS security policy Threat Intelligence feed**  
+https://azure.microsoft.com/en-us/updates/?id=530183
+
+**Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523115
+
+**Generally Available: Azure NetApp Files single file restore from backup**  
+https://azure.microsoft.com/en-us/updates/?id=522077
+
+**Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523120
+
+**Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523081
+
+**Generally Available: MCP support for AI toolchain operator add-on in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523152
+
+**Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523076
+
 **Public Preview: Microsoft Foundry data connection for Azure Databricks**  
 https://azure.microsoft.com/en-us/updates/?id=527678
 
