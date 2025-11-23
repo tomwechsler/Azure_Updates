@@ -1,3 +1,9 @@
+**Retirement: Migrate to dedicated VM for your compute clusters**  
+https://azure.microsoft.com/en-us/updates/?id=501658
+
+**Generally Available: Custom handler support in Azure Functions Flex consumption**  
+https://azure.microsoft.com/en-us/updates/?id=512413
+
 **Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift**  
 https://azure.microsoft.com/en-us/updates/?id=530174
 
