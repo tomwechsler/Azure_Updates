@@ -1,3 +1,21 @@
+**Generally Available: Azure Load Testing in Italy North**  
+https://azure.microsoft.com/en-us/updates/?id=532481
+
+**Generally Available: Regex support in T-SQL**  
+https://azure.microsoft.com/en-us/updates/?id=532207
+
+**Generally Available: Azure MCP Server for Azure Database for MySQL**  
+https://azure.microsoft.com/en-us/updates/?id=532197
+
+**Public Preview: Entra ID support for RDP connections**  
+https://azure.microsoft.com/en-us/updates/?id=526018
+
+**Generally Available: Azure File Sync in New Zealand North**  
+https://azure.microsoft.com/en-us/updates/?id=533437
+
+**Public Preview: Claude Opus 4.5 Available in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=534541
+
 **Retirement: Migrate to dedicated VM for your compute clusters**  
 https://azure.microsoft.com/en-us/updates/?id=501658
 
