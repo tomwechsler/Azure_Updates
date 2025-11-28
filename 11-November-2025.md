@@ -1,3 +1,6 @@
+**Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture**  
+https://azure.microsoft.com/en-us/updates/?id=534482
+
 **Generally Available: Azure Load Testing in Italy North**  
 https://azure.microsoft.com/en-us/updates/?id=532481
 
