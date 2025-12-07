@@ -1,3 +1,123 @@
+**Public Preview: Azure API Management adds support for A2A Agent APls**  
+https://azure.microsoft.com/en-us/updates/?id=527635
+
+**Public Preview: Azure Managed Redis integration with Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=532188
+
+**Public Preview: Recommended alerts for Azure Monitor Workspace**  
+https://azure.microsoft.com/en-us/updates/?id=515505
+
+**Public Preview: Auto-import for Azure Managed Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529342
+
+**Generally Available: Azure Managed Lustre Support for Azure MCP Server**  
+https://azure.microsoft.com/en-us/updates/?id=529381
+
+**Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529368
+
+**Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre**  
+https://azure.microsoft.com/en-us/updates/?id=529359
+
+**Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift**  
+https://azure.microsoft.com/en-us/updates/?id=530174
+
+**Public Preview: Azure NetApp Files migration assistant (portal support)**  
+https://azure.microsoft.com/en-us/updates/?id=525620
+
+**Public Preview: Azure NetApp Files cache volumes**  
+https://azure.microsoft.com/en-us/updates/?id=523917
+
+**Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images**  
+https://azure.microsoft.com/en-us/updates/?id=529797
+
+**Generally Available: Azure Sphere OS version 25.10 is now available**  
+https://azure.microsoft.com/en-us/updates/?id=522390
+
+**Generally Available: DNS security policy Threat Intelligence feed**  
+https://azure.microsoft.com/en-us/updates/?id=530183
+
+**Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523115
+
+**Generally Available: Azure NetApp Files single file restore from backup**  
+https://azure.microsoft.com/en-us/updates/?id=522077
+
+**Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523120
+
+**Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523081
+
+**Generally Available: MCP support for Al toolchain operator add-on in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523152
+
+**Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=523076
+
+**Retirement: Migrate to dedicated VM for your compute clusters**  
+https://azure.microsoft.com/en-us/updates/?id=501658
+
+**Generally Available: Custom handler support in Azure Functions Flex consumption**  
+https://azure.microsoft.com/en-us/updates/?id=512413
+
+**Generally Available: Azure Load Testing in Italy North**  
+https://azure.microsoft.com/en-us/updates/?id=532481
+
+**Generally Available: Regex support in T-SQL**  
+https://azure.microsoft.com/en-us/updates/?id=532207
+
+**Generally Available: Azure MCP Server for Azure Database for MySQL**  
+https://azure.microsoft.com/en-us/updates/?id=532197
+
+**Public Preview: Entra ID support for RDP connections**  
+https://azure.microsoft.com/en-us/updates/?id=526018
+
+**Generally Available: Azure File Sync in New Zealand North**  
+https://azure.microsoft.com/en-us/updates/?id=533437
+
+**Public Preview: Claude Opus 4.5 Available in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=534541
+
+**Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture**  
+https://azure.microsoft.com/en-us/updates/?id=534482
+
+**Generally Available: Model Context Protocol support in Azure API Management and Azure API Center**  
+https://azure.microsoft.com/en-us/updates/?id=491990
+
+**Generally Available: Perth - Azure Extended Zones**  
+https://azure.microsoft.com/en-us/updates/?id=535363
+
+**Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension**  
+https://azure.microsoft.com/en-us/updates/?id=536747
+
+**Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central**  
+https://azure.microsoft.com/en-us/updates/?id=534523
+
+**Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=534518
+
+**Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=534509
+
+**Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=534504
+
+**Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=501668
+
+**Generally Available: Azure Blob Storage SFTP - Resumable Uploads**  
+https://azure.microsoft.com/en-us/updates/?id=499438
+
+**Public Preview: Serverless workspaces in Azure Databricks**  
+https://azure.microsoft.com/en-us/updates/?id=536721
+
+**Generally Available: Azure MCP Server support for Azure confidential ledger**  
+https://azure.microsoft.com/en-us/updates/?id=531889
+
+**Public Preview: Mistral Large 3 in Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=536937
+
 **Generally Available: Azure SQL Database long-term retention (LTR) backup immutability**  
 https://azure.microsoft.com/en-us/updates/?id=523095
 
