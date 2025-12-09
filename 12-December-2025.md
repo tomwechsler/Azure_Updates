@@ -1,3 +1,6 @@
+**Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.**  
+https://azure.microsoft.com/en-us/updates/?id=541410
+
 **Public Preview: Azure API Management adds support for A2A Agent APls**  
 https://azure.microsoft.com/en-us/updates/?id=527635
 
