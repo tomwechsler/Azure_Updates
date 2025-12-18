@@ -1,3 +1,18 @@
+**Public Preview: Azure NetApp Files advanced ransomware protection**  
+https://azure.microsoft.com/en-us/updates/?id=536699
+
+**Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)**  
+https://azure.microsoft.com/en-us/updates/?id=537106
+
+**Update: The retirement date for default outbound access has been extended to March 31, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=515484
+
+**Generally Available: Azure Sphere OS version 25.12 is now available for evaluation**  
+https://azure.microsoft.com/en-us/updates/?id=541784
+
+**Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams**  
+https://azure.microsoft.com/en-us/updates/?id=536907
+
 **Public Preview: Recommended alerts for Azure Monitor Workspace**  
 https://azure.microsoft.com/en-us/updates/?id=515505
 
