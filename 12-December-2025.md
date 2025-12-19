@@ -1,3 +1,12 @@
+**Generally Available: Azure SQL updates for early December 2025**  
+https://azure.microsoft.com/en-us/updates/?id=541818
+
+**Public Preview: Use Azure SRE Agent with Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=541813
+
+**Public Preview: Service Bus SK type bindings in Azure Functions for Node.js**  
+https://azure.microsoft.com/en-us/updates/?id=541427
+
 **Public Preview: Azure NetApp Files advanced ransomware protection**  
 https://azure.microsoft.com/en-us/updates/?id=536699
 
