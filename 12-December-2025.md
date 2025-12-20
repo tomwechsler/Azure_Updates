@@ -1,3 +1,6 @@
+**Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover**  
+https://azure.microsoft.com/en-us/updates/?id=542813
+
 **Generally Available: Azure SQL updates for early December 2025**  
 https://azure.microsoft.com/en-us/updates/?id=541818
 
