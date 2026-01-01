@@ -1,3 +1,6 @@
+**Retirement: Deprecation of Custom Resource Providers**  
+https://azure.microsoft.com/en-us/updates/?id=513892
+
 **Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover**  
 https://azure.microsoft.com/en-us/updates/?id=542813
 
