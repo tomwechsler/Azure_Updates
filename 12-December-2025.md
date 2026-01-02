@@ -1,3 +1,12 @@
+**Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West**  
+https://azure.microsoft.com/en-us/updates/?id=544080
+
+**Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario**  
+https://azure.microsoft.com/en-us/updates/?id=536560
+
+**Generally Available: Geo-Replication for Azure Service Bus Premium**  
+https://azure.microsoft.com/en-us/updates/?id=490149
+
 **Retirement: Deprecation of Custom Resource Providers**  
 https://azure.microsoft.com/en-us/updates/?id=513892
 
