@@ -1,3 +1,12 @@
+**Generally Available: Reporting in Playwright Workspaces (part of Azure App Testing)**  
+https://azure.microsoft.com/en-us/updates/?id=550379
+
+**Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs**  
+https://azure.microsoft.com/en-us/updates/?id=547772
+
+**Generally Available: Deployment safeguards - pod security standard support in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=548101
+
 **Generally Available: Ubuntu 24.04 support in AKS**  
 https://azure.microsoft.com/en-us/updates/?id=548096
 
