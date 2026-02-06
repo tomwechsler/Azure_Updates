@@ -1,3 +1,6 @@
+**[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level**  
+https://azure.microsoft.com/en-us/updates/?id=550863
+
 **[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2**. 
 https://azure.microsoft.com/en-us/updates/?id=555205
 
