@@ -1,3 +1,12 @@
+**[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=555870
+
+**[In preview] Public Preview: Azure virtual network routing appliance**  
+https://azure.microsoft.com/en-us/updates/?id=555944
+
+**[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026**  
+https://azure.microsoft.com/en-us/updates/?id=553966
+
 **[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level**  
 https://azure.microsoft.com/en-us/updates/?id=550863
 
