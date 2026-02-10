@@ -1,3 +1,15 @@
+**[Launched] Generally Available: Claude Opus 4.6 now available on Azure Databricks**  
+https://azure.microsoft.com/en-us/updates/?id=555981
+
+**[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)**  
+https://azure.microsoft.com/en-us/updates/?id=553999
+
+**[In preview] Public Preview: Azure Monitor pipeline data transformations**  
+https://azure.microsoft.com/en-us/updates/?id=555488
+
+**[in development] Private Preview: Vaulted Backups for Azure Disk**  
+https://azure.microsoft.com/en-us/updates/?id=555184
+
 **[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry**  
 https://azure.microsoft.com/en-us/updates/?id=555870
 
