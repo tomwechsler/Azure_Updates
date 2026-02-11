@@ -1,3 +1,6 @@
+**[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on**  
+https://azure.microsoft.com/en-us/updates/?id=555603
+
 **[Launched] Generally Available: Claude Opus 4.6 now available on Azure Databricks**  
 https://azure.microsoft.com/en-us/updates/?id=555981
 
