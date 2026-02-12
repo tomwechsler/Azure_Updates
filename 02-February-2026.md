@@ -1,3 +1,9 @@
+**[Launched] Generally Available: Azure Databricks Supervisor Agent**  
+https://azure.microsoft.com/en-us/updates/?id=557081
+
+**[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North**  
+https://azure.microsoft.com/en-us/updates/?id=556282
+
 **[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on**  
 https://azure.microsoft.com/en-us/updates/?id=555603
 
