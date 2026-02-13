@@ -1,3 +1,6 @@
+**[In preview] Public Preview: Azure SQL updates for mid-February 2026**  
+https://azure.microsoft.com/en-us/updates/?id=550159
+
 **[Launched] Generally Available: Azure Databricks Supervisor Agent**  
 https://azure.microsoft.com/en-us/updates/?id=557081
 
