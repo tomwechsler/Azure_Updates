@@ -1,3 +1,6 @@
+**[Launched] Generally Available: AKS support for Kubernetes version 1.34**  
+https://azure.microsoft.com/en-us/updates/?id=548114
+
 **[In preview] Public Preview: Azure SQL updates for mid-February 2026**  
 https://azure.microsoft.com/en-us/updates/?id=550159
 
