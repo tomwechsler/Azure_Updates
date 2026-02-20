@@ -1,3 +1,6 @@
+**[Launched] Generally Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk**  
+https://azure.microsoft.com/en-us/updates/?id=545784
+
 **[Launched] Generally Available: AKS support for Kubernetes version 1.34**  
 https://azure.microsoft.com/en-us/updates/?id=548114
 
