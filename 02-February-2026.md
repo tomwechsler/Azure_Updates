@@ -1,10 +1,19 @@
+**[In preview] Public Preview: WAF Insights for Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=557416
+
+**Retirement: Windows Server Annual Channel (preview)**  
+https://azure.microsoft.com/en-us/updates/?id=557224
+
+**[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Brazil Southeast, and in a third Availability Zone in Malaysia West and Indonesia Central**  
+https://azure.microsoft.com/en-us/updates/?id=557623
+
 **[Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning**  
 https://azure.microsoft.com/en-us/updates/?id=557213
 
 **[Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS**  
 https://azure.microsoft.com/en-us/updates/?id=557203
 
-**[Launched Generally Available: Node auto-provisioning support in Azure government and private cloud**  
+**[Launched] Generally Available: Node auto-provisioning support in Azure government and private cloud**  
 https://azure.microsoft.com/en-us/updates/?id=557208
 
 **[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks**  
