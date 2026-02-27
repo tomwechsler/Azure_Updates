@@ -1,3 +1,15 @@
+**[In preview] Public Preview: Geo-redundant backups for Premium SSD v2 in Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=557532
+
+**[In preview] Public Preview: Azure SQL updates for late-February 2026**  
+https://azure.microsoft.com/en-us/updates/?id=557522
+
+**[Launched] Generally Available: Azure SQL updates for late-February 2026**  
+https://azure.microsoft.com/en-us/updates/?id=557517
+
+**[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline**  
+https://azure.microsoft.com/en-us/updates/?id=552808
+
 **[In preview] Public Preview: WAF Insights for Application Gateway**  
 https://azure.microsoft.com/en-us/updates/?id=557416
 
