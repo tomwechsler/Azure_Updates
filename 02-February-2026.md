@@ -1,3 +1,6 @@
+**[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity**  
+https://azure.microsoft.com/en-us/updates/?id=557694
+
 **[In preview] Public Preview: Geo-redundant backups for Premium SSD v2 in Azure Database for PostgreSQL**  
 https://azure.microsoft.com/en-us/updates/?id=557532
 
