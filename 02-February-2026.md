@@ -1,3 +1,15 @@
+**[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central**  
+https://azure.microsoft.com/en-us/updates/?id=557897
+
+**Retirement: Managed NGINX Ingress with Application Routing Add-on Retiring November 2026**  
+https://azure.microsoft.com/en-us/updates/?id=555839
+
+**[Launched] Generally available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North**  
+https://azure.microsoft.com/en-us/updates/?id=558078
+
+**[Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMS**  
+https://azure.microsoft.com/en-us/updates/?id=558051
+
 **[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity**  
 https://azure.microsoft.com/en-us/updates/?id=557694
 
