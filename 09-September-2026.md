@@ -1,3 +1,12 @@
+**[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions**  
+https://azure.microsoft.com/en-us/updates/?id=570557
+
+**[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL**  
+https://azure.microsoft.com/en-us/updates/?id=569653
+
+**[In preview] Public Preview: Azure Front Door profile and route level WAF policies**  
+https://azure.microsoft.com/en-us/updates/?id=569804
+
 **[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan support for Azure tables and plan switching**  
 https://azure.microsoft.com/en-us/updates/?id=569904
 
