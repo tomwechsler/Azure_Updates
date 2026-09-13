@@ -1,3 +1,27 @@
+**[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)**. 
+https://azure.microsoft.com/en-us/updates/?id=570910
+
+**Retirement: Azure Linux with OS Guard in Azure Kubernetes Service**. 
+https://azure.microsoft.com/en-us/updates/?id=571257
+
+**[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework**  
+https://azure.microsoft.com/en-us/updates/?id=570881
+
+**[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North**  
+https://azure.microsoft.com/en-us/updates/?id=570919
+
+**[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS**  
+https://azure.microsoft.com/en-us/updates/?id=570551
+
+**[Launched] Generally Available: User-bound user delegation SAS for Azure Storage**  
+https://azure.microsoft.com/en-us/updates/?id=569241
+
+**[Launched] Generally Available: Azure Copilot Troubleshooting Agent**  
+https://azure.microsoft.com/en-us/updates/?id=570980
+
+**[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption**  
+https://azure.microsoft.com/en-us/updates/?id=570940
+
 **[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions**  
 https://azure.microsoft.com/en-us/updates/?id=570557
 
