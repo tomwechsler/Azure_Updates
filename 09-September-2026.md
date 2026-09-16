@@ -1,3 +1,9 @@
+**[In preview] Public Preview: HTTP/3 over QUIC support in Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=571123
+
+**Announcing: New Windows App client-side endpoints for Azure Virtual Desktop**  
+https://azure.microsoft.com/en-us/updates/?id=571360
+
 **[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)**. 
 https://azure.microsoft.com/en-us/updates/?id=570910
 
