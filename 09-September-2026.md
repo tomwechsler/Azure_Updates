@@ -1,3 +1,15 @@
+**[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=569664
+
+**[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes**  
+https://azure.microsoft.com/en-us/updates/?id=571621
+
+**[In preview] Public Preview: Azure SQL updates for mid-September 2026**  
+https://azure.microsoft.com/en-us/updates/?id=571056
+
+**Retirement Update: SAP container images removed October 14, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=571342
+
 **[In preview] Public Preview: HTTP/3 over QUIC support in Azure Application Gateway**  
 https://azure.microsoft.com/en-us/updates/?id=571123
 
