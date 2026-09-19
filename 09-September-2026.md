@@ -1,3 +1,9 @@
+**(Launchen) Generally Available: High-scale mesh in Azure Virtual Network Manager**  
+https://azure.microsoft.com/en-us/updates/?id=571572
+
+**[In preview] Public Preview: Azure Payments HSM v2**  
+https://azure.microsoft.com/en-us/updates/?id=570509
+
 **[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL**  
 https://azure.microsoft.com/en-us/updates/?id=569664
 
