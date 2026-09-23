@@ -1,3 +1,36 @@
+**[Launched] Generally Available: Azure Functions support for PowerShell 7.6**  
+https://azure.microsoft.com/en-us/updates/?id=572219
+
+**[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code**  
+https://azure.microsoft.com/en-us/updates/?id=572214
+
+**[Launched] Generally Available: Azure Sphere OS version 26.09 is now available**  
+https://azure.microsoft.com/en-us/updates/?id=572579
+
+**[Launched] Generally Available: PG18 support for Azure Database for PostgreSQL elastic clusters**  
+https://azure.microsoft.com/en-us/updates/?id=571047
+
+**[Launched] Generally Available: New and improved troubleshooting guides for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=571042
+
+**[Launched] Generally Available: Logical replication slot sync status metric for Azure PostgreSQL Flexible Server**  
+https://azure.microsoft.com/en-us/updates/?id=568414
+
+**[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams**  
+https://azure.microsoft.com/en-us/updates/?id=571816
+
+**[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=571821
+
+**[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365**  
+https://azure.microsoft.com/en-us/updates/?id=571826
+
+**[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP**  
+https://azure.microsoft.com/en-us/updates/?id=571530
+
+**[In preview] Public Preview: Foundry Routines in Foundry Agent Service**  
+https://azure.microsoft.com/en-us/updates/?id=563536
+
 **(Launchen) Generally Available: High-scale mesh in Azure Virtual Network Manager**  
 https://azure.microsoft.com/en-us/updates/?id=571572
 
