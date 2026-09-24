@@ -1,3 +1,9 @@
+**[In preview] Public Preview: Flex Nodes for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=571919
+
+**Retirement: Support for Node.js 22 ends on April 30, 2027**  
+https://azure.microsoft.com/en-us/updates/?id=572771
+
 **[Launched] Generally Available: Azure Functions support for PowerShell 7.6**  
 https://azure.microsoft.com/en-us/updates/?id=572219
 
