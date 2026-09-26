@@ -1,3 +1,9 @@
+**Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026-upgrade your apps to .NET 10**  
+https://azure.microsoft.com/en-us/updates/?id=572838
+
+**Retirement: Support for PowerShell 7.4 ends on November 10, 2026**  
+https://azure.microsoft.com/en-us/updates/?id=572770
+
 **[In preview] Public Preview: Flex Nodes for AKS**  
 https://azure.microsoft.com/en-us/updates/?id=571919
 
