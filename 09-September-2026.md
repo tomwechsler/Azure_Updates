@@ -1,3 +1,9 @@
+**[Launched] Generally Available: Instant Access for VM restore points**  
+https://azure.microsoft.com/en-us/updates/?id=572573
+
+**Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=557117
+
 **Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026-upgrade your apps to .NET 10**  
 https://azure.microsoft.com/en-us/updates/?id=572838
 
