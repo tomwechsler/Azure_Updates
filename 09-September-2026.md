@@ -1,3 +1,18 @@
+**[Launched] Generally Available: Luxembourg - Azure Extended Zones**  
+https://azure.microsoft.com/en-us/updates/?id=572968
+
+**[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026**  
+https://azure.microsoft.com/en-us/updates/?id=571632
+
+**[In preview] Public Preview: Azure SQL Dev Hub**  
+https://azure.microsoft.com/en-us/updates/?id=572998
+
+**[Launched] Generally Available: Vector search and vector indexes in Azure SQL**  
+https://azure.microsoft.com/en-us/updates/?id=571800
+
+**[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18**  
+https://azure.microsoft.com/en-us/updates/?id=573048
+
 **[Launched] Generally Available: Instant Access for VM restore points**  
 https://azure.microsoft.com/en-us/updates/?id=572573
 
