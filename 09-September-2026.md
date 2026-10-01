@@ -1,3 +1,84 @@
+**[In preview] Public Preview : Microsoft entra kerberos authentication for Azure NetApp Files**  
+https://azure.microsoft.com/en-us/updates/?id=573041
+
+**[Launched] Generally Available: Storage with cool access enhancement**  
+https://azure.microsoft.com/en-us/updates/?id=573032
+
+**[Launched] Generally Available: Support for large volume breakthrough mode**  
+https://azure.microsoft.com/en-us/updates/?id=573027
+
+**Retirement: Azure loT Central will be retired on September 20, 2029**  
+https://azure.microsoft.com/en-us/updates/?id=569914
+
+**Retirement: Microsoft HPC Pack**  
+https://azure.microsoft.com/en-us/updates/?id=570046
+
+**[In preview] Public Preview: Long-term retention (LTR) v2 for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=571914
+
+**[In preview] Public Preview: Microsoft SQL Agent Skills**  
+https://azure.microsoft.com/en-us/updates/?id=573003
+
+**In preview Public Preview: Migrate directly from Azure Arc to Azure SQL Database, including Hyperscale**  
+https://azure.microsoft.com/en-us/updates/?id=571795
+
+**Retirement: Azure Arc enabled System Center Virtual Machine Manager will be retired September 30, 2029**  
+https://azure.microsoft.com/en-us/updates/?id=570283
+
+**[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation**  
+https://azure.microsoft.com/en-us/updates/?id=571899
+
+**[Launched] Generally Available: SQL Formatter**  
+https://azure.microsoft.com/en-us/updates/?id=571872
+
+**[In preview] Public Preview: Azure SQL Database Hyperscale Serverless auto-pause and auto-resume**  
+https://azure.microsoft.com/en-us/updates/?id=571857
+
+**[Launched] Generally Available: Database DevOps in SSMS powered by SQL projects**  
+https://azure.microsoft.com/en-us/updates/?id=571852
+
+**[In preview] Public Preview: Azure SQL updates for late-September 2026**  
+https://azure.microsoft.com/en-us/updates/?id=571846
+
+**[Launched] Generally Available: SQL Server support on Azure Local connected mode**  
+https://azure.microsoft.com/en-us/updates/?id=571841
+
+**[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO)**  
+https://azure.microsoft.com/en-us/updates/?id=571836
+
+**[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM**  
+https://azure.microsoft.com/en-us/updates/?id=571810
+
+**[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK)**  
+https://azure.microsoft.com/en-us/updates/?id=571783
+
+**[Launched] Generally Available: Azure SQL updates for late-September 2026**  
+https://azure.microsoft.com/en-us/updates/?id=571643
+
+**[In preview] Public Preview: Performance monitoring for Azure Arc-enabled SQL Server**  
+https://azure.microsoft.com/en-us/updates/?id=571904
+
+**[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database**  
+https://azure.microsoft.com/en-us/updates/?id=571867
+
+**[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk**  
+https://azure.microsoft.com/en-us/updates/?id=571909
+
+**[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North**  
+https://azure.microsoft.com/en-us/updates/?id=570763
+
+**[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central**  
+https://azure.microsoft.com/en-us/updates/?id=570696
+
+**[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets**  
+https://azure.microsoft.com/en-us/updates/?id=571075
+
+**[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series**  
+https://azure.microsoft.com/en-us/updates/?id=572630
+
+**Retirement: Azure Functions v1 hosting model on Azure Container Apps**  
+https://azure.microsoft.com/en-us/updates/?id=570800
+
 **[Launched] Generally Available: Luxembourg - Azure Extended Zones**  
 https://azure.microsoft.com/en-us/updates/?id=572968
 
