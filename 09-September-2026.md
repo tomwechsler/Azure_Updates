@@ -1,3 +1,21 @@
+**Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs**  
+https://azure.microsoft.com/en-us/updates/?id=572346
+
+**Announcing: Azure canvases for GitHub Copilot**  
+https://azure.microsoft.com/en-us/updates/?id=573385
+
+**[In preview] Public Preview: Ubuntu 26.04 support in AKS**  
+https://azure.microsoft.com/en-us/updates/?id=573214
+
+**Retirement: NVv4-series Azure Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=573415
+
+**Retirement: NVv3-series Azure Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=573414
+
+**[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=571894
+
 **[In preview] Public Preview : Microsoft entra kerberos authentication for Azure NetApp Files**  
 https://azure.microsoft.com/en-us/updates/?id=573041
 
