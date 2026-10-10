@@ -1,3 +1,24 @@
+**Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong**  
+https://azure.microsoft.com/en-us/updates/?id=571831
+
+**[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management**  
+https://azure.microsoft.com/en-us/updates/?id=574204
+
+**[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door**  
+https://azure.microsoft.com/en-us/updates/?id=574343
+
+**Retirement: Azure Deployment Environments will be retired on February 22, 2027**  
+https://azure.microsoft.com/en-us/updates/?id=567934
+
+**Retirement: Microsoft Dev Box will be retired on September 18, 2028**  
+https://azure.microsoft.com/en-us/updates/?id=567933
+
+**[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3**  
+https://azure.microsoft.com/en-us/updates/?id=573691
+
+**[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS**  
+https://azure.microsoft.com/en-us/updates/?id=574430
+
 **[In preview] Public Preview: AKS on bare metal now on Ubuntu**  
 https://azure.microsoft.com/en-us/updates/?id=573782
 
