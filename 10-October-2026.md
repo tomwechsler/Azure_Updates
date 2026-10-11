@@ -1,3 +1,6 @@
+**Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters**  
+https://azure.microsoft.com/en-us/updates/?id=570313
+
 **Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong**  
 https://azure.microsoft.com/en-us/updates/?id=571831
 
