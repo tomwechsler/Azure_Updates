@@ -1,3 +1,51 @@
+**[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage**  
+https://azure.microsoft.com/en-us/updates/?id=577618
+
+**[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation**  
+https://azure.microsoft.com/en-us/updates/?id=576716
+
+**Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra**  
+https://azure.microsoft.com/en-us/updates/?id=577273
+
+**[Launched] Generally Available: Advanced platform metrics for Azure Monitor**  
+https://azure.microsoft.com/en-us/updates/?id=575329
+
+**[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM**  
+https://azure.microsoft.com/en-us/updates/?id=577130
+
+**[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF**  
+https://azure.microsoft.com/en-us/updates/?id=577156
+
+**[In preview] Public Preview: Disable VNet peering route**  
+https://azure.microsoft.com/en-us/updates/?id=576242
+
+**[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records**  
+https://azure.microsoft.com/en-us/updates/?id=573917
+
+**[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace**  
+https://azure.microsoft.com/en-us/updates/?id=577165
+
+**[Launched] Generally Available: External key management for Azure Key Vault Managed HSM**  
+https://azure.microsoft.com/en-us/updates/?id=574296
+
+**[In preview] Public Preview: Azure Databricks Private network gateway**  
+https://azure.microsoft.com/en-us/updates/?id=576556
+
+**[Launched] Generally Available: Automatic zone balance for Virtual Machine Scale Sets**  
+https://azure.microsoft.com/en-us/updates/?id=576334
+
+**[Launched] Generally Available: Standard service endpoint**  
+https://azure.microsoft.com/en-us/updates/?id=571025
+
+**[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover**  
+https://azure.microsoft.com/en-us/updates/?id=576542
+
+**[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers**  
+https://azure.microsoft.com/en-us/updates/?id=576214
+
+**[Launched] Generally Available: Azure Cloud HSM hardware audit logging**  
+https://azure.microsoft.com/en-us/updates/?id=576377
+
 **Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters**  
 https://azure.microsoft.com/en-us/updates/?id=570313
 
