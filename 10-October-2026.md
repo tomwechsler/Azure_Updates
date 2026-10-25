@@ -1,3 +1,6 @@
+**[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup**  
+https://azure.microsoft.com/en-us/updates/?id=577963
+
 **[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage**  
 https://azure.microsoft.com/en-us/updates/?id=577618
 
