@@ -1,3 +1,15 @@
+**[Launched] Generally Available: Azure Front Door profile and route level WAF policies**  
+https://azure.microsoft.com/en-us/updates/?id=578153
+
+**[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=577260
+
+**[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription**  
+https://azure.microsoft.com/en-us/updates/?id=578358
+
+**[Launched] Generally Available: Network Watcher VNet flow logs filtering**  
+https://azure.microsoft.com/en-us/updates/?id=577782
+
 **[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup**  
 https://azure.microsoft.com/en-us/updates/?id=577963
 
