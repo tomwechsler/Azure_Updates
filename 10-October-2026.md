@@ -1,3 +1,21 @@
+**[Launched] Generally Available: Azure MCP Server 3.0**  
+https://azure.microsoft.com/en-us/updates/?id=578662
+
+**[Launched] Generally Available: HTTP DDoS Ruleset for Azure Front Door Premium WAF**  
+https://azure.microsoft.com/en-us/updates/?id=578681
+
+**[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations**  
+https://azure.microsoft.com/en-us/updates/?id=578850
+
+**[Launched] Generally Available: Marketplace private offer enhancements**  
+https://azure.microsoft.com/en-us/updates/?id=576547
+
+**In preview Public Preview: Cross Tenant Restore with Azure Backup**  
+https://azure.microsoft.com/en-us/updates/?id=577117
+
+**Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor**  
+https://azure.microsoft.com/en-us/updates/?id=577689
+
 **[Launched] Generally Available: Azure Front Door profile and route level WAF policies**  
 https://azure.microsoft.com/en-us/updates/?id=578153
 
