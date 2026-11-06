@@ -1,3 +1,15 @@
+**[In preview] Public Preview: Multi-disk crash-consistent VM restore points for Premium SSD v2 and Ultra Disks on VMs with SCSI disk controller**  
+https://azure.microsoft.com/en-us/updates/?id=579162
+
+**[In preview] Public Preview: Azure Firewall IPv6 now supports application rules**  
+https://azure.microsoft.com/en-us/updates/?id=579507
+
+**Generally Available: Route maps for Azure Route Server**  
+https://azure.microsoft.com/en-us/updates/?id=578966
+
+**[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01**  
+https://azure.microsoft.com/en-us/updates/?id=579300
+
 **[Launched] Generally Available: Enhanced Azure Site Recovery support for VMSS Flex**  
 https://azure.microsoft.com/en-us/updates/?id=578926
 
