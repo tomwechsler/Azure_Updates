@@ -1,3 +1,9 @@
+**[Launched] Generally Available: WAF Insights for Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=579280
+
+**[Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support**  
+https://azure.microsoft.com/en-us/updates/?id=577668
+
 **[In preview] Public Preview: Multi-disk crash-consistent VM restore points for Premium SSD v2 and Ultra Disks on VMs with SCSI disk controller**  
 https://azure.microsoft.com/en-us/updates/?id=579162
 
