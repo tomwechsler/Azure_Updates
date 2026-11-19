@@ -1,3 +1,105 @@
+**[In preview] Public Preview: Azure SQL updates for mid-November 2026**  
+https://azure.microsoft.com/en-us/updates/?id=578471
+
+**[In preview] Public Preview: Agent Sandbox cluster extension**  
+https://azure.microsoft.com/en-us/updates/?id=580916
+
+**[In preview] Public Preview: Scale ExpressRoute Direct connectivity with link groups**  
+https://azure.microsoft.com/en-us/updates/?id=580926
+
+**[In preview] Public Preview: Azure API Management Application**  
+https://azure.microsoft.com/en-us/updates/?id=581277
+
+**[In preview] Public Preview: Azure Bastion RDP and SSH vision**  
+https://azure.microsoft.com/en-us/updates/?id=580699
+
+**[In preview] Public Preview: Al Security add-on for Azure Firewall Premium**  
+https://azure.microsoft.com/en-us/updates/?id=580694
+
+**[In preview] Public Preview: Azure Adaptive Virtual Patching**  
+https://azure.microsoft.com/en-us/updates/?id=580689
+
+**[In preview] Public Preview: Agent Grid helping secure Al agent communications**  
+https://azure.microsoft.com/en-us/updates/?id=580684
+
+**[In preview] Public Preview: Perimeter link (cross perimeter) in network security perimeter**  
+https://azure.microsoft.com/en-us/updates/?id=579206
+
+**[In preview] Public Preview: Service tags for inbound rules in network security perimeter**  
+https://azure.microsoft.com/en-us/updates/?id=579201
+
+**[In preview] Generally Available: Private endpoint support for Azure HorizonDB clusters**  
+https://azure.microsoft.com/en-us/updates/?id=574153
+
+**[Launched] Generally Available: Confidential VMs with Intel TDX support on AKS**  
+https://azure.microsoft.com/en-us/updates/?id=581130
+
+**[In preview] Public Preview: Confidential VMs with OS Disk Encryption support on AKS**  
+https://azure.microsoft.com/en-us/updates/?id=581125
+
+**[Launched] Generally Available: Near-instant provisioning for Azure DocumentDB clusters**  
+https://azure.microsoft.com/en-us/updates/?id=579349
+
+**[In preview] Public Preview: Azure SQL DB Hyperscale Cross Database Querying**  
+https://azure.microsoft.com/en-us/updates/?id=579221
+
+**[In development] Private Preview: Azure DH/EHasv8 VMs based on 6th Gen AMD EPYC™ ("Venice") processors**  
+https://azure.microsoft.com/en-us/updates/?id=581308
+
+**[Launched] Generally Available: Database Hub real-time performance dashboards**  
+https://azure.microsoft.com/en-us/updates/?id=579644
+
+**[In preview] Public Preview: Database Agent for SQL with contextual Copilot**  
+https://azure.microsoft.com/en-us/updates/?id=580091
+
+**[In preview] Limited Preview: Azure Workload Center for Oracle and Azure Copilot Run Oracle Agent**  
+https://azure.microsoft.com/en-us/updates/?id=581214
+
+**[In preview] Limited Preview: Azure Workload Center for SAP and Azure Copilot Run SAP Agent**  
+https://azure.microsoft.com/en-us/updates/?id=581209
+
+**[In preview] Public Preview: Azure Elastic SAN Next Generation**  
+https://azure.microsoft.com/en-us/updates/?id=581634
+
+**[In preview] Public Preview: Pod Sandboxing kata-vm-isolation-v2 runtime class**  
+https://azure.microsoft.com/en-us/updates/?id=581120
+
+**[Launched] Generally Available: Semantic Reranker in Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=577520
+
+**[In preview] Limited Preview: Al model management in Azure HorizonDB**  
+https://azure.microsoft.com/en-us/updates/?id=563097
+
+**[Launched] Generally Available: Throughput buckets in Azure Cosmos DB**  
+https://azure.microsoft.com/en-us/updates/?id=571488
+
+**[In preview] Generally Available: Customize backup retention from 1 to 35 days in Azure HorizonDB**  
+https://azure.microsoft.com/en-us/updates/?id=574163
+
+**[Launched] Generally Available: Geo-redundant backup and restore for Azure HorizonDB**  
+https://azure.microsoft.com/en-us/updates/?id=574168
+
+**[Launched] Generally Available: Cobalt 200 compute for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=579585
+
+**[Launched] Generally Available: Intel and AMD v5 diskless tier for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=579595
+
+**[Launched] Generally Available: Intel and AMD v6 with temp disk for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=579590
+
+**Generally Available: Cobalt 200 Arm-based Dplsv7, Dpsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines**  
+https://azure.microsoft.com/en-us/updates/?id=581298
+
+**[In preview] Public Preview: Immutable snapshots for Azure Disk Storage**  
+https://azure.microsoft.com/en-us/updates/?id=581503
+
+**Announcing: Azure Boost observability for NVMe disks**  
+https://azure.microsoft.com/en-us/updates/?id=581227
+
+**Retirement: Azure Data Share will be retired on November 12, 2029**  
+https://azure.microsoft.com/en-us/updates/?id=578818
+
 **[In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync**  
 https://azure.microsoft.com/en-us/updates/?id=579854
 
