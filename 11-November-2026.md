@@ -1,3 +1,30 @@
+**[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=579579
+
+**[In preview] Public Preview: Zone resilience for Azure VMs**  
+https://azure.microsoft.com/en-us/updates/?id=581254
+
+**[In preview] Public Preview: PostgreSQL 19 on Azure Database for PostgreSQL**  
+https://azure.microsoft.com/en-us/updates/?id=574587
+
+**[Launched] Generally Available: Soft delete in Azure Compute Gallery**  
+https://azure.microsoft.com/en-us/updates/?id=581907
+
+**Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia**  
+https://azure.microsoft.com/en-us/updates/?id=580700
+
+**[In preview] Public Preview: Al-powered application and database modernization with Modernize CLI**  
+https://azure.microsoft.com/en-us/updates/?id=579943
+
+**[Launched] Generally Available: Cross-subscription backup for Azure Virtual Machines in Azure Backup**  
+https://azure.microsoft.com/en-us/updates/?id=581048
+
+**Announcing: The new Azure Databricks on Azure Government is now in Beta**  
+https://azure.microsoft.com/en-us/updates/?id=581645
+
+**[In preview] Public Preview: Al bot ruleset for Azure Front Door Premium WAF**  
+https://azure.microsoft.com/en-us/updates/?id=581604
+
 **[In preview] Public Preview: Azure SQL updates for mid-November 2026**  
 https://azure.microsoft.com/en-us/updates/?id=578471
 
