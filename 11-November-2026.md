@@ -1,3 +1,21 @@
+**[In preview] Public Preview: Azure Firewall for Containers**  
+https://azure.microsoft.com/en-us/updates/?id=581963
+
+**[In preview] Public Preview: Multi-turn evaluation in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581746
+
+**[In preview] Public Preview: Programmed Training in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581713
+
+**Retirement: Support for Azure Functions OpenAl Extension ends on April 20, 2027**  
+https://azure.microsoft.com/en-us/updates/?id=579952
+
+**[In preview] Public Preview: Microsoft Copilot harness support in Foundry Toolkit for VS Code**  
+https://azure.microsoft.com/en-us/updates/?id=581468
+
+**[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code**  
+https://azure.microsoft.com/en-us/updates/?id=581463
+
 **[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL**  
 https://azure.microsoft.com/en-us/updates/?id=579579
 
