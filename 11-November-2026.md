@@ -1,3 +1,57 @@
+**[Launched] Generally Available: WAF Insights for Azure Front Door**  
+https://azure.microsoft.com/en-us/updates/?id=579285
+
+**[Launched] Generally Available: WAF Insights for Azure Application Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=579280
+
+**[In preview] Public Preview: Azure Database for PostgreSQL enhanced Burstable tier (Basv2)**  
+https://azure.microsoft.com/en-us/updates/?id=574535
+
+**Retirement: Azure Al Content Safety selected features will be retired on April 30, 2027**  
+https://azure.microsoft.com/en-us/updates/?id=577474
+
+**[Launched] Generally Available: Wildcard domain support in Azure Firewall network rules**  
+https://azure.microsoft.com/en-us/updates/?id=582030
+
+**[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code**  
+https://azure.microsoft.com/en-us/updates/?id=581478
+
+**[In preview] Public Preview: Use model router with Al Gateway**  
+https://azure.microsoft.com/en-us/updates/?id=581398
+
+**[Launched] Generally Available: Model router now supports the Responses API protocol in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581393
+
+**[In preview] Public Preview: Use your model deployments with model router in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581388
+
+**[In preview] Public Preview: Use the Messages API with model router in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581383
+
+**[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581378
+
+**[Launched] Generally Available: Files knowledge source for Foundry IQ**  
+https://azure.microsoft.com/en-us/updates/?id=581368
+
+**[Launched] Generally Available: Agent insights in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581363
+
+**[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581358
+
+**[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools**  
+https://azure.microsoft.com/en-us/updates/?id=581353
+
+**[In preview] Public Preview: IQ Retriever Zero in Foundry IQ**  
+https://azure.microsoft.com/en-us/updates/?id=581343
+
+**[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581338
+
+**[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ**  
+https://azure.microsoft.com/en-us/updates/?id=581333
+
 **[In preview] Public Preview: Azure Firewall for Containers**  
 https://azure.microsoft.com/en-us/updates/?id=581963
 
