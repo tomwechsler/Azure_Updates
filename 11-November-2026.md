@@ -1,3 +1,27 @@
+**[In preview] Public Preview: Central governance of hosted-agent outbound domains in Foundry Agent Service**  
+https://azure.microsoft.com/en-us/updates/?id=581328
+
+**[In preview] Public Preview: Cost controls for model and agent spending in Microsoft Foundry**  
+https://azure.microsoft.com/en-us/updates/?id=581323
+
+**[In preview] Public Preview: Azure Developer CLI extension for Azure Document Intelligence and Content Understanding in Foundry Tools**  
+https://azure.microsoft.com/en-us/updates/?id=581318
+
+**[In preview] Public Preview: Native A2A passthrough for hosted agents in Foundry Agent Service**  
+https://azure.microsoft.com/en-us/updates/?id=581313
+
+**[Launched] Generally Available: Use Azure Storage permissions in Azure Al Search and Foundry IQ**  
+https://azure.microsoft.com/en-us/updates/?id=581303
+
+**[In preview] Public Preview: Govern MCP tools with your own gateway in Microsoft Foundry Agent Service**  
+https://azure.microsoft.com/en-us/updates/?id=581498
+
+**[In preview] Public Preview: Optimize agents from insights in Foundry Agent Service**  
+https://azure.microsoft.com/en-us/updates/?id=581483
+
+**[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks**  
+https://azure.microsoft.com/en-us/updates/?id=582171
+
 **[Launched] Generally Available: WAF Insights for Azure Front Door**  
 https://azure.microsoft.com/en-us/updates/?id=579285
 
